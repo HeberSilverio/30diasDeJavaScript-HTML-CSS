@@ -13,12 +13,10 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 
 __Vídeos no Youtube__
 
-[Vídeos tutoriais] (YouTube
-https://youtube.com/c/HabilTrader 
-https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1)
+[Vídeos tutoriais] (https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1)
 
 # Desafio dia 01 - Ícone de mídia social em camadas
-[Meu código (https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001)]
+[Meu código] (https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001)
 
 ## O que eu aprendi
 * Criar as camadas utilizando a tag <span>
