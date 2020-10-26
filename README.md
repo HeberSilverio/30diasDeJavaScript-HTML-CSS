@@ -11,9 +11,9 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 * Realizar um projeto por dia
 * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
-__Vídeos no Youtube__
+<a href="https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1"> <strong>Vídeos no Youtube</strong></a>
 
-[Vídeos tutoriais] (https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1)
+Vídeos tutorial
 
 # Desafio dia 01 - Ícone de mídia social em camadas
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Meu código</a>
