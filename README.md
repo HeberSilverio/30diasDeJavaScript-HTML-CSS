@@ -16,8 +16,8 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 
 
 # Desafio dia 01 - Ícone de mídia social em camadas
-<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Meu código</a>
-<a href="https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1">Tutorial dia 01</a>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código dia 01</a> </br>
+<a href="https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1">Tutorial Youtube dia 01</a>
 
 ## O que eu aprendi
 * Criar as camadas utilizando a tag <span>
