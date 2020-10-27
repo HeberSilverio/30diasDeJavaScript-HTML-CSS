@@ -11,13 +11,24 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 * Realizar um projeto por dia
 * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
-<a href="https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1"> <strong>Tutoriais no Youtube</strong></a>
+<a href=""> <strong>Gostou da ideia? Clique aqui para participar</strong></a>
 
-
+# Índice
+<> <a href=""></a> 
+* Desafio dia 01 - <a href="">Ícone de mídia social em camadas</a> 
+* Desafio dia 02 - <a href="">Loader animado</a> 
 
 # Desafio dia 01 - Ícone de mídia social em camadas
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
-<a href="https://www.youtube.com/channel/UCxUTJTs6eHpBoeBcoPL3ZJg?sub_confirmation=1">Tutorial Youtube Dia 01</a>
+<a href=""></a> 
+
+# Desafio dia 02 - Ícone de mídia social em camadas
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 02</a> </br>
+<a href=""></a> 
+
+# Desafio dia 03 - Formulário de login animado usando apenas HTML e CSS
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 03</a> </br>
+<a href=""></a> 
 
 ## O que eu aprendi
 * Criar as camadas utilizando a tag <span>

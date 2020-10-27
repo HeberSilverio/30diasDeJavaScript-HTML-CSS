@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+    background: #34495e;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 0 #7c1616;
+    background:transparent;
+    animation: animate 2s linear infinite;
+
+}
+.text {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    color: #150ab3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 300px;
+    font-size:2em;
+    background: transparent;
+    box-shadow: 0 0 5px rgba(233, 22, 22, 0.2);
+}
+@keyframes animate 
+{
+    0% 
+    { 
+        transform: rotate(0deg)
+    }
+    100% 
+    { 
+        transform: rotate(360deg)
+    }
+}
