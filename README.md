@@ -1,14 +1,14 @@
 # 30diasDeCSS 
-<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 
+ 
 
 Fala Devs, beleza?
 
 30 dias de CCS3, é um desafio para estudar CSS fazendo mini projetos diários.
 
-# Objetivo
+## Objetivo
 Melhorar minhas habilidades em HTML5 e CSS3.
 
-# Regras Gerais
+## Regras Gerais
 * Realizar um projeto por dia
 * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
