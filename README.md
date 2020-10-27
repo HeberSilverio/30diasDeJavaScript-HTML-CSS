@@ -12,7 +12,7 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 * Realizar um projeto por dia
 * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
-<a href=""> <strong>Gostou da ideia? Clique aqui para participar</strong></a>
+Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para participar</strong></a>
 
 # Índice
 <> <a href=""></a> 
