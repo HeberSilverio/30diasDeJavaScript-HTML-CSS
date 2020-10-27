@@ -24,8 +24,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * Desafio dia 03 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Formulário de login Animado</a> 
 
 ## Desafio dia 01 - Ícone de mídia social em camadas
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif">
-    <img src="https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif" alt="Dia 01" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
