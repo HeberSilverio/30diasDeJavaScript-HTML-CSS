@@ -1,3 +1,4 @@
+<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
 # 30diasDeCSS
 
 Fala Devs, beleza?
@@ -23,11 +24,11 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 <a href=""></a> 
 
 # Desafio dia 02 - Ícone de mídia social em camadas
-<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 02</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
 <a href=""></a> 
 
 # Desafio dia 03 - Formulário de login animado usando apenas HTML e CSS
-<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 03</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
 <a href=""></a> 
 
 ## O que eu aprendi
