@@ -19,8 +19,9 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 * Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Loader animado</a> 
 
-# Desafio dia 01 - Ícone de mídia social em camadas
-<a target="_blank" rel="noopener noreferrer" href=" https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif">
+## Desafio dia 01 - Ícone de mídia social em camadas
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif"></a>
+
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
 <a href=""></a> 
 
