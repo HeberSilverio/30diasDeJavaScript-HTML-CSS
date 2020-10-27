@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #34495e;
+    background: #293e49;
 }
 .box {
     width: 300px;
@@ -11,9 +11,9 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #191919;
+    background: #212D40;
+    border-radius: 20px;
     text-align: center;
-
 }
 .box h1 {
     color: white;
