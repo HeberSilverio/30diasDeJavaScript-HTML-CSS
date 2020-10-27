@@ -19,6 +19,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 # Índice
  
 * Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
+
 * Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Loader animado</a> 
 
 * Desafio dia 03 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Formulário de login Animado</a> 
@@ -31,7 +32,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
 <a href="">Tutorial no YouTube</a> 
 
-## O que eu aprendi
+### O que eu aprendi
 * Criar as camadas utilizando a tag span
 * Transformação 2D ou 3D de um elemento aqui
 * Transições CSS
@@ -39,24 +40,24 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * hover
 * nth-child ()
 
-# Desafio dia 02 - Loader animado
+## Desafio dia 02 - Loader animado
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif" alt="Dia 02" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
 <a href="">Tutorial no YouTube</a> 
 
-## O que eu aprendi
+### O que eu aprendi
 * Animações com CSS
 * Utilizar a regra `@keyframes`
 
-# Desafio dia 03 - Formulário de login animado 
+## Desafio dia 03 - Formulário de login animado 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/Dia_03.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/Dia_03.gif" alt="Dia 02" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
 <a href="">Tutorial no YouTube</a> 
 
-## O que eu aprendi
+### O que eu aprendi
 * Transições com CSS
 * Método HTML DOM focus ()
