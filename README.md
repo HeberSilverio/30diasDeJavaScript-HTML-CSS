@@ -52,8 +52,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * Utilizar a regra `@keyframes`
 
 ## Desafio dia 03 - Formulário de login animado 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/Dia_03.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/Dia_03.gif" alt="Dia 02" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif" alt="Dia 02" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
 <a href="">Tutorial no YouTube</a> 
