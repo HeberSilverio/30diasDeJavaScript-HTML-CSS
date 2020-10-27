@@ -1,7 +1,7 @@
 # 30diasDeCSS 🎫
  
 
-Fala Devs, beleza?
+Olá dev, tudo certo?
 
 30 dias de CCS3, é um desafio para estudar CSS fazendo mini projetos diários.
 
@@ -15,9 +15,9 @@ Melhorar minhas habilidades em HTML5 e CSS3.
 Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para participar</strong></a>
 
 # Índice
-<> <a href=""></a> 
-* Desafio dia 01 - <a href="">Ícone de mídia social em camadas</a> 
-* Desafio dia 02 - <a href="">Loader animado</a> 
+ 
+* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Ícone de mídia social em camadas</a> 
+* Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Loader animado</a> 
 
 # Desafio dia 01 - Ícone de mídia social em camadas
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
