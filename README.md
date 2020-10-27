@@ -39,9 +39,9 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * hover
 * nth-child ()
 
-# Desafio dia 02 - Ícone de mídia social em camadas
-<a target="_blank" rel="noopener noreferrer" href="">
-    <img src="" alt="Dia 02" style="max-width: 100%;">
+# Desafio dia 02 - Loader animado
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif" alt="Dia 02" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
 <a href="">Tutorial no YouTube</a> 
