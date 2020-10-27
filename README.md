@@ -1,4 +1,4 @@
-# 30diasDeCSS 
+# 30diasDeCSS 🎫
  
 
 Fala Devs, beleza?
