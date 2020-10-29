@@ -65,8 +65,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * Método HTML DOM focus ()
 
 ## Desafio dia 04 - Mudança de cor do texto ao entrar em outra div 
-<a target="_blank" rel="noopener noreferrer" href="">
-    <img src="" alt="Dia 04" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2004/Gif/changeColorText.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2004/Gif/changeColorText.gif" alt="Dia 04" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2004">Código Dia 04</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
