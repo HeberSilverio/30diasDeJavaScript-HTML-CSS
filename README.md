@@ -20,11 +20,11 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
  
 * Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
-* Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-02---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Loader animado</a> 
+* Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-02---loader-animado">Loader animado</a> 
 
 * Desafio dia 03 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-03---formul%C3%A1rio-de-login-animado">Formulário de login Animado</a> 
 
-* Desafio dia 04 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-03---formul%C3%A1rio-de-login-animado">Mudança de cor do texto ao entrar em outra div</a>
+* Desafio dia 04 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-04---mudan%C3%A7a-de-cor-do-texto-ao-entrar-em-outra-div">Mudança de cor do texto ao entrar em outra div</a>
 
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
