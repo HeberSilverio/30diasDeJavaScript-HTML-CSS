@@ -37,7 +37,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 #### O que eu aprendi
 * Criar as camadas utilizando a tag span
 * Transformação 2D ou 3D de um elemento aqui
-* Transições CSS
+* <a href="https://www.w3schools.com/css/css3_transitions.asp">CSS Transitions
+</a>
 * Opacidade / transparência do CSS
 * hover
 * nth-child ()
@@ -50,8 +51,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
-* Animações com CSS
-* Utilizar a regra `@keyframes`
+* <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 
 ## Desafio dia 03 - Formulário de login animado 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif">
@@ -72,5 +72,5 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
-* Transições com CSS
-* Método HTML DOM focus ()
+* <a href="https://www.w3schools.com/css/css_overflow.asp">Layout CSS - Overflow</a> 
+* <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
