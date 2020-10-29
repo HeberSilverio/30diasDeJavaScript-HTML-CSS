@@ -37,7 +37,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 #### O que eu aprendi
 * Criar as camadas utilizando a tag span
 * Transformação 2D ou 3D de um elemento aqui
-* <a target="_blank" href="https://www.w3schools.com/css/css3_transitions.asp">CSS Transitions
+* <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/css3_transitions.asp">CSS Transitions
 </a>
 * Opacidade / transparência do CSS
 * hover
