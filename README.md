@@ -24,7 +24,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 03 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-03---formul%C3%A1rio-de-login-animado">Formulário de login Animado</a> 
 
-* Desafio dia 04 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-03---formul%C3%A1rio-de-login-animado">Formulário de login Animado</a>
+* Desafio dia 04 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-03---formul%C3%A1rio-de-login-animado">Mudança de cor do texto ao entrar em outra div</a>
 
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
@@ -32,7 +32,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
-<a href="">Tutorial no YouTube</a> 
+<a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
 * Criar as camadas utilizando a tag span
@@ -47,7 +47,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif" alt="Dia 02" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
-<a href="">Tutorial no YouTube</a> 
+<a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
 * Animações com CSS
@@ -55,10 +55,21 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 ## Desafio dia 03 - Formulário de login animado 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif" alt="Dia 02" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2003/gif/loginAnimado.gif" alt="Dia 03" style="max-width: 100%;">
 </a>
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
-<a href="">Tutorial no YouTube</a> 
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+#### O que eu aprendi
+* Transições com CSS
+* Método HTML DOM focus ()
+
+## Desafio dia 04 - Mudança de cor do texto ao entrar em outra div 
+<a target="_blank" rel="noopener noreferrer" href="">
+    <img src="" alt="Dia 04" style="max-width: 100%;">
+</a>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2004">Código Dia 04</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
 * Transições com CSS
