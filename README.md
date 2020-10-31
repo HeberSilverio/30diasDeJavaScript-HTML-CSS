@@ -26,6 +26,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 04 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-04---mudan%C3%A7a-de-cor-do-texto-ao-entrar-em-outra-div">Mudança de cor do texto ao entrar em outra div</a>
 
+* Desafio dia 05 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-04---mudan%C3%A7a-de-cor-do-texto-ao-entrar-em-outra-div">Borda com efeito hover</a>
+
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
@@ -74,3 +76,18 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 #### O que eu aprendi
 * <a href="https://www.w3schools.com/css/css_overflow.asp">Layout CSS - Overflow</a> 
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
+
+## Desafio dia 05 - Borda com efeito hover
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2005">Código Dia 05</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+#### O que eu aprendi
+<a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a>
+<a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a>
+<a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a>
+<a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições </a>
+<a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">transformação</a>
