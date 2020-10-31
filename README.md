@@ -86,8 +86,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
-<a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a>
-<a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a>
-<a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a>
-<a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições </a>
-<a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">transformação</a>
+<a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a></br>
+<a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a></br>
+<a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a></br>
+<a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições </a></br>
+<a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">transformação</a></br>
