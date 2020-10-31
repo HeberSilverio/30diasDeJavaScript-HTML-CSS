@@ -63,7 +63,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 #### O que eu aprendi
-* Transições com CSS
+* <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
 * Método HTML DOM focus ()
 
 ## Desafio dia 04 - Mudança de cor do texto ao entrar em outra div 
