@@ -28,7 +28,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 05 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-05---borda-com-efeito-hover">Borda com efeito hover</a>
 
-* Desafio dia 06 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-05---borda-com-efeito-hover">Efeito pulsar</a>
+* Desafio dia 06 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-06---efeito-pulsar">Efeito pulsar</a>
 
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
