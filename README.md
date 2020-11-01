@@ -30,6 +30,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 06 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-06---efeito-pulsar">Efeito pulsar</a>
 
+* Desafio dia 07 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Texto Letreiro luninoso</a>
+
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
@@ -107,8 +109,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 
 ## Desafio dia 07 - Texto letreiro luminoso
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif" alt="Dia 01" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 01" style="max-width: 50%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 06</a> </br>
