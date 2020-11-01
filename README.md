@@ -1,22 +1,31 @@
-# 30diasDeCSS 🎫
+# Descrição do Projeto 🎫
  
-
-Olá dev, tudo certo?
-
 30 dias de CCS3, é um desafio para estudar CSS fazendo mini projetos diários.
 
-## Objetivo
+#### Objetivo
 Desenvolver novas habilidades em HTML5 e CSS3 através da realização de mini projetos. 
 
 Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei feliz com sua participação :wink:
 
-## Regras Gerais
+#### Sugestões
 * Realizar um projeto por dia
 * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
 Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para participar</strong></a>
 
-# Índice
+## ⌨️ Como executar o projeto
+```* Clonando o repositório
+git clone https://github.com/marciliocorreia/3D_Animation
+
+# Execute o HTML
+Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
+```
+# Autor
+Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
+
+<a href="https://www.linkedin.com/in/hebersilverio/" rel="nofollow"><img src="https://camo.githubusercontent.com/c93fed3759c4a34198be7edef401a101e9454245/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d617263696c696f636f72726569612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hebersilverio/" style="max-width:100%;"></a>
+
+# 📋 Índice
  
 * Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
@@ -32,6 +41,9 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 07 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Texto Letreiro luminoso</a>
 
+
+
+
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
@@ -40,7 +52,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * Criar as camadas utilizando a tag span
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação 2D ou 3D de um elemento</a>
 * <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
@@ -56,7 +68,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 
 ## Desafio dia 03 - Formulário de login animado 
@@ -66,7 +78,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
 * Método HTML DOM focus ()
 
@@ -89,7 +101,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2005">Código Dia 05</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * <a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a></br>
@@ -104,7 +116,7 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2006">Código Dia 06</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 
@@ -116,6 +128,6 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 06</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ As tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>

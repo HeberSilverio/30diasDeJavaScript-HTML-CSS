@@ -5,7 +5,7 @@
 }
 
 body {
-    background:#353b48;
+    background:#11151C;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -17,12 +17,13 @@ body {
     height: 60px;
     background: none;
     border: 4px solid;
-    color: yellow;
+    color: rgb(0, 255, 136);
     font-weight: 700;
     text-transform: uppercase;
     cursor: pointer;
     font-size: 20px;
     position: relative;
+    
 }
 
 .btn::before, .btn::after {
@@ -30,7 +31,7 @@ body {
     position: absolute;
     width: 14px;
     height: 4px;
-    background: #353b48;
+    background: #11151C;
     transform: skewX(50deg);
     transition: .5s linear;
 }
