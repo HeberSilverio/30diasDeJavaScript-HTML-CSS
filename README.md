@@ -105,3 +105,15 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 #### O que eu aprendi
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
+
+## Desafio dia 07 - Texto letreiro luminoso
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif" alt="Dia 01" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 06</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+#### O que eu aprendi
+* <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>

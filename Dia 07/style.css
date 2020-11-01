@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'lato', sans-serif;
+    background-color: #11151C;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul li {
+    list-style: none;
+    color: #7ce0e7;
+    font-size: 70px;
+    letter-spacing: 15px;
+    animation: lighting 2.8s linear infinite;
+}
+
+@keyframes lighting {
+    0% {
+        color:rgb(43, 20, 109);
+        text-shadow: none;
+    }
+
+    90% { color:rgb(5, 218, 58);
+        text-shadow: none;
+    }
+
+    100% { color:#fbff00;
+        text-shadow: 0 0 17px #fff900, 0 0 80px #ff6c00;
+    }
+}
+
+ul li:nth-child(1) {animation-delay: 0}
+ul li:nth-child(2) {animation-delay: 0.1s}
+ul li:nth-child(3) {animation-delay: 0.2s}
+ul li:nth-child(4) {animation-delay: 0.3s}
+ul li:nth-child(5) {animation-delay: 0.4s}
+ul li:nth-child(6) {animation-delay: 0.5s}
+ul li:nth-child(7) {animation-delay: 0.6s}
+ul li:nth-child(8) {animation-delay: 0.7s}
+ul li:nth-child(9) {animation-delay: 0.8s}
+ul li:nth-child(10) {animation-delay: 0.9s}
+ul li:nth-child(11) {animation-delay: 1s}
