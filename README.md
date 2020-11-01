@@ -28,6 +28,8 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 
 * Desafio dia 05 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-05---borda-com-efeito-hover">Borda com efeito hover</a>
 
+* Desafio dia 06 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-05---borda-com-efeito-hover">Efeito pulsar</a>
+
 ## Desafio dia 01 - Ícone de mídia social em camadas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
@@ -90,4 +92,16 @@ Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"
 * <a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a></br>
 * <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições </a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
+
+## Desafio dia 06 - Efeito pulsar
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2006/gif/botaoPulse.gif" alt="Dia 01" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2006">Código Dia 06</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+#### O que eu aprendi
+* <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
