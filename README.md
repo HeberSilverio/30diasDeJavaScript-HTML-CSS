@@ -51,7 +51,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * Criar as camadas utilizando a tag span
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação 2D ou 3D de um elemento</a>
 * <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
@@ -67,7 +67,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2002">Código Dia 02</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 
 ## Desafio dia 03 - Formulário de login animado 
@@ -77,7 +77,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2003">Código Dia 03</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
 * Método HTML DOM focus ()
 
@@ -88,7 +88,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2004">Código Dia 04</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-#### O que eu aprendi
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css_overflow.asp">Layout CSS - Overflow</a> 
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 
@@ -100,7 +100,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2005">Código Dia 05</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_before.asp" rel="nofollow">::before</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_after.asp" rel="nofollow">::after</a></br>
@@ -115,7 +115,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2006">Código Dia 06</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp">Use animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 
@@ -127,6 +127,6 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 06</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
-### 🛠️ As tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
