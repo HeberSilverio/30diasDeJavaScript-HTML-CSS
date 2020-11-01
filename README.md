@@ -1,21 +1,20 @@
-# Descrição do Projeto 🎫
+# 🎫 Descrição do Projeto 🎫
  
 30 dias de CCS3, é um desafio para estudar CSS fazendo mini projetos diários.
 
-#### Objetivo
-Desenvolver novas habilidades em HTML5 e CSS3 através da realização de mini projetos. 
+#### Objetivo e Sugestões
+   * Desenvolver novas habilidades em HTML5 e CSS3 através da realização de mini projetos. 
 
-Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei feliz com sua participação :wink:
+   * Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei feliz com sua participação :wink:
 
-#### Sugestões
-* Realizar um projeto por dia
-* Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+   * Realizar um projeto por dia
+   * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
 Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para participar</strong></a>
 
 ## ⌨️ Como executar o projeto
 ```* Clonando o repositório
-git clone https://github.com/marciliocorreia/3D_Animation
+git clone https://github.com/HeberSilverio/30diasDeCSS
 
 # Execute o HTML
 Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
