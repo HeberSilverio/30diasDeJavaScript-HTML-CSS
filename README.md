@@ -40,6 +40,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 07 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Texto Letreiro luminoso</a>
 
+* Desafio dia 08 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Preloader Animation</a>
+
 
 
 
@@ -124,7 +126,19 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 01" style="max-width: 50%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 06</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 07</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
+
+## Desafio dia 08 - Preloader Animation
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 01" style="max-width: 50%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2008">Código Dia 08</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 ### 🛠️ Tecnologias utilizadas
