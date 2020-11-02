@@ -40,7 +40,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 07 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Texto Letreiro luminoso</a>
 
-* Desafio dia 08 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-07---texto-letreiro-luminoso">Preloader Animation</a>
+* Desafio dia 08 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-08---preloader-animation">Preloader Animation</a>
 
 
 
@@ -123,7 +123,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 07 - Texto letreiro luminoso
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 01" style="max-width: 50%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 07" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2007">Código Dia 07</a> </br>
@@ -134,8 +134,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
 
 ## Desafio dia 08 - Preloader Animation
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2007/gif/LetreiroAnimado.gif" alt="Dia 01" style="max-width: 50%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeCSS/blob/main/Dia%2008/gif/preloaderAnimation.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeCSS/blob/main/Dia%2008/gif/preloaderAnimation.gif" alt="Dia 08" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2008">Código Dia 08</a> </br>
