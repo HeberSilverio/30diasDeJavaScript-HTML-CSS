@@ -42,7 +42,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 08 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-08---preloader-animation">Preloader Animation</a>
 
-* Desafio dia 09 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-08---preloader-animation">Pêndulo de Newtons</a>
+* Desafio dia 09 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-09---p%C3%AAndulo-de-newtons">Pêndulo de Newtons</a>
 
 
 
