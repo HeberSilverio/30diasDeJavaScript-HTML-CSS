@@ -35,4 +35,56 @@ body {
     position: relative;
 
     display: block;
+    width: 5px;
+    height: 300px;
+    margin: 0 29px;
+
+    background: var(--pendulo);
+    transform-origin: top;
 }
+
+.pendulo span:before {
+    content:"";
+
+    position: absolute;
+
+    bottom: 0;
+    left: 0;
+
+    width: 60px;
+    height: 60px;
+
+    border-radius: 50%;
+    background: var(--pendulo);
+
+    transform: translateX(-50%);
+    animation: color-ball 2s linear infinite;
+}
+
+.pendulo span:first-child {
+    animation: left-ball 2s ease-in infinite;
+}
+
+.pendulo span:last-child {
+    animation: right-ball 2s ease-in infinite 1s;
+  }
+
+  @keyframes left-ball {
+      0% { transform: rotate(0deg); box-shadow: 2px 0 60px var(--light-one);}
+     25% { transform: rotate(60deg); box-shadow: 2px 0 60px var(--light-two);}
+     50% { transform: rotate(0deg); box-shadow: 2px 0 60px var(--light-three);}
+     100% { transform: rotate(0deg);}
+  }
+
+  @keyframes right-ball {
+    0% { transform: rotate(0deg); box-shadow: 2px 0 60px var(--light-one);}
+    25% { transform: rotate(-60deg); box-shadow: 2px 0 60px var(--light-two);}
+    50% { transform: rotate(0deg); box-shadow: 2px 0 60px var(--light-three);}
+    100% { transform: rotate(0deg);}
+  }
+
+  @keyframes color-ball {
+    0% { box-shadow: 0 0 60px var(--light-one);}
+    50% { box-shadow: 0 0 60px var(--light-two);}
+    100% {box-shadow: 0 0 60px var(--light-three);}
+  }
