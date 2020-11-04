@@ -1,0 +1,38 @@
+:root {
+    --bg: #181818;
+    
+    --border: #fff;
+    --pendulo:#fff;
+
+    --light-one:#59fa53;
+    --light-two: #fa53d0;
+    --light-three: #effa53;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: var(--bg);
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pendulo {
+    display: flex;
+
+    margin-top: 160px;
+    padding: 0 0 20px 0;
+
+    border-top: 18px solid var(--border);
+}
+
+.pendulo span {
+    position: relative;
+
+    display: block;
+}
