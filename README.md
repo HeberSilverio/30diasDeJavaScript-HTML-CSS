@@ -49,9 +49,9 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
 
-## Desafio dia 01 - Ícone de mídia social em camadas
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2001/gif/iconeEmCamada.gif" alt="Dia 01" style="max-width: 100%;">
+## Desafio dia 01 - 3D Responsive Touch Slider
+<a target="_blank" rel="noopener noreferrer" href="https://imgur.com/fwGNVyg">
+    <img src="https://imgur.com/fwGNVyg" alt="Dia 01" style="max-width: 100%;">
 </a> </br>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
