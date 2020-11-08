@@ -1,4 +1,4 @@
-# 🎫 Descrição do Projeto 🎫
+# 🎫 Descrição do Projeto
  
 30 dias de JavaScript, HTML5 e CCS3, é um desafio para estudar fazendo mini projetos diários.
 
