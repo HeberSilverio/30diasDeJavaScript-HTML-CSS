@@ -44,7 +44,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 09 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-09---p%C3%AAndulo-de-newtons">Pêndulo de Newtons</a>
 
-* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
+* Desafio dia 10 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Efeitos de animação fundo de partículas</a> 
 
 * Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
@@ -59,7 +59,6 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://swiperjs.com/" rel="nofollow">Plugin Swiper - Mobile Touch Slider</a>
-
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">nth-child ()</a>
 
 ## Desafio dia 02 - Loader animado
@@ -146,6 +145,18 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
 
 ## Desafio dia 09 - Pêndulo de Newtons
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif" alt="Dia 08" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2009">Código Dia 09</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
+
+## Desafio dia 10 - Efeitos de animação fundo de partículas
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif" alt="Dia 08" style="max-width: 100%;">
 </a>
