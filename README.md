@@ -168,3 +168,17 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
+
+## Desafio dia 11 - Ícone de mídia social em camadas
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2011/gif/iconeEmCamada.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2011/gif/iconeEmCamada.gif" alt="Dia 11" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2011">Código Dia 11</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a></br>
+* <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
+* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
