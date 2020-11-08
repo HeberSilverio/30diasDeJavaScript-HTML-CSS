@@ -1,22 +1,22 @@
 # 🎫 Descrição do Projeto 🎫
  
-30 dias de CCS3, é um desafio para estudar CSS fazendo mini projetos diários.
+30 dias de JavaScript e HTML5 e CCS3, é um desafio para estudar fazendo mini projetos diários.
 
 #### Objetivo e Sugestões
-   * Desenvolver novas habilidades em HTML5 e CSS3 através da realização de mini projetos. 
+   * Desenvolver novas habilidades em JavaScript, HTML5 e CSS3 através da realização de mini projetos. 
 
    * Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei feliz com sua participação :wink:
 
    * Realizar um projeto por dia
-   * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+   * Compartilhar seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeJavaScript&HTML&CSS
 
-Gostou da ideia? <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para participar</strong></a>
+<b>Gostou da ideia?</b> <a href="https://github.com/HeberSilverio/30diasDeCSS/issues/1"> <strong> Clique aqui para registrar o seu início</strong></a>
 
 ## ⌨️ Como executar o projeto
 ```* Clonando o repositório
-git clone https://github.com/HeberSilverio/30diasDeCSS
+git clone https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS
 
-# Execute o HTML
+# Execute o HTML abrindo o arquivo index.html no navegador
 Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
 ```
 # Autor
