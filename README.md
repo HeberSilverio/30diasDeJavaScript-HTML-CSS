@@ -44,7 +44,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 09 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-09---p%C3%AAndulo-de-newtons">Pêndulo de Newtons</a>
 
-* Desafio dia 10 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Efeitos de animação fundo de partículas</a> 
+* Desafio dia 10 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-10---efeitos-de-anima%C3%A7%C3%A3o-fundo-de-part%C3%ADculas">Efeitos de animação fundo de partículas</a> 
 
 * Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
@@ -146,7 +146,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 09 - Pêndulo de Newtons
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif" alt="Dia 08" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif" alt="Dia 09" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2009">Código Dia 09</a> </br>
@@ -157,13 +157,14 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
 
 ## Desafio dia 10 - Efeitos de animação fundo de partículas
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2009/gif/pendulo.gif" alt="Dia 08" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2010/gif/fundoParticulas.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2010/gif/fundoParticulas.gif" alt="Dia 10" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2009">Código Dia 09</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2010">Código Dia 10</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
