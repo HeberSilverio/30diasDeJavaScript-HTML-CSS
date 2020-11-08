@@ -55,7 +55,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 </a> </br>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
-<a href="">Tutorial no YouTube</a> 
+<a href="https://youtu.be/mEsIZNwe3m0">Tutorial no YouTube</a> 
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://swiperjs.com/" rel="nofollow">Plugin Swiper - Mobile Touch Slider</a>
