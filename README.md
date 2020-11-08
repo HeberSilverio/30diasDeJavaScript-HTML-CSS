@@ -26,7 +26,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 # 📋 Índice
  
-* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
+* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">3D Responsive Touch Slider</a> 
 
 * Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-02---loader-animado">Loader animado</a> 
 
@@ -44,7 +44,9 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 09 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-09---p%C3%AAndulo-de-newtons">Pêndulo de Newtons</a>
 
+* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
+* Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
 
 ## Desafio dia 01 - Ícone de mídia social em camadas
