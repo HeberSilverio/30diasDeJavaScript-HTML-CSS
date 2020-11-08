@@ -46,7 +46,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 10 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-10---efeitos-de-anima%C3%A7%C3%A3o-fundo-de-part%C3%ADculas">Efeitos de animação fundo de partículas</a> 
 
-* Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
+* Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-11---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
