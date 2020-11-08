@@ -1,6 +1,6 @@
 # 🎫 Descrição do Projeto 🎫
  
-30 dias de JavaScript e HTML5 e CCS3, é um desafio para estudar fazendo mini projetos diários.
+30 dias de JavaScript, HTML5 e CCS3, é um desafio para estudar fazendo mini projetos diários.
 
 #### Objetivo e Sugestões
    * Desenvolver novas habilidades em JavaScript, HTML5 e CSS3 através da realização de mini projetos. 
@@ -50,8 +50,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
-<a target="_blank" rel="noopener noreferrer" href="https://imgur.com/fwGNVyg">
-    <img src="https://imgur.com/fwGNVyg" alt="Dia 01" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
 </a> </br>
 
 <a href="https://github.com/HeberSilverio/30diasDeCSS/tree/main/Dia%2001">Código Dia 01</a> </br>
