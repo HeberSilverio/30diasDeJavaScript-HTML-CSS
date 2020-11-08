@@ -26,7 +26,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 # 📋 Índice
  
-* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-01---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">3D Responsive Touch Slider</a> 
+* Desafio dia 01 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-01---3d-responsive-touch-slider">3D Responsive Touch Slider</a> 
 
 * Desafio dia 02 - <a href="https://github.com/HeberSilverio/30diasDeCSS#desafio-dia-02---loader-animado">Loader animado</a> 
 
@@ -58,13 +58,9 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 ### 🛠️ Tecnologias utilizadas
-* Criar as camadas utilizando a tag span
-* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação 2D ou 3D de um elemento</a>
-* <a href="https://www.w3schools.com/css/css3_transitions.asp" rel="nofollow">Transições CSS</a>
-* <a href="https://www.w3schools.com/css/css_image_transparency.asp" rel="nofollow">Opacidade / transparência do CSS</a>
-* <a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">hover</a>
-* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">nth-child ()</a>
+* <a href="https://swiperjs.com/" rel="nofollow">Plugin Swiper - Mobile Touch Slider</a>
 
+* <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">nth-child ()</a>
 
 ## Desafio dia 02 - Loader animado
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeCSS/main/Dia%2002/gif/loading.gif">
