@@ -8,9 +8,10 @@
      justify-content: center;
      align-items: center;
      min-height: 100vh;
-     background: linear-gradient(#093824,#41436A);
+     background: #093824;
      animation: animateBg 10s linear infinite;
  }
+ 
 @keyframes animateBg
 {
     0% 
