@@ -196,3 +196,16 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/cssref/sel_hover.asp" rel="nofollow">:hover</a></br>
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
+
+## Desafio dia 13 - Galloping horse only css
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2013/img/horse.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2013/img/horse.gif" alt="Dia 11" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2013">Código Dia 12</a> </br>
+<a href="">Tutorial no YouTube</a> Ainda não disponível
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
+
