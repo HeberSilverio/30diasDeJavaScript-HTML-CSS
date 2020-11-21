@@ -48,7 +48,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 11 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-11---%C3%ADcone-de-m%C3%ADdia-social-em-camadas">Ícone de mídia social em camadas</a> 
 
-* Desafio dia 12 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-12---menu-suspenso-da-conta-do-usu%C3%A1rio-usando-html-css-e-vanilla-javascript">Ícone de mídia social em camadas</a> 
+* Desafio dia 12 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-12---menu-suspenso-da-conta-do-usu%C3%A1rio">Menu suspenso da conta do usuário</a> 
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
