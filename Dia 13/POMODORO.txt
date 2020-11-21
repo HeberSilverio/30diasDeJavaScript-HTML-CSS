@@ -1,9 +1,0 @@
-https://tomato-timer.com/   -- site de pomodoro
-
-
-https://pomofocus.io/	  -- site de pomodoro
-
-
-
-https://www.youtube.com/watch?v=9EVmiQCfkuQ   - Build A Pomodoro Clock In React
-https://youtu.be/JJ7lnjuNMM4		 - Como criar um relógio pomodoro com Reactjs ( Nextjs )
