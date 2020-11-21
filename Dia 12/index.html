@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="action">
-        <div class="profile">
+        <div class="profile" onclick="menuToggle();">
             <img src="img/perfilFeminino.jfif" alt="">
         </div>
         <div class="menu">
@@ -24,5 +24,11 @@
             </ul>
         </div>
     </div>
+    <script>
+        function menuToggle(){
+            const toggleMenu = document.querySelector('.menu');
+            toggleMenu.classList.toggle('active')
+        }
+    </script>
 </body>
 </html>
