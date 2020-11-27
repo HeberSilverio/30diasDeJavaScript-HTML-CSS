@@ -3,62 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Jogo da memória</title>
-    
+    <title>Validação de email com JavaScript</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <main class="memory-game">
-        <div class="card" data-card="bowser">
-            <img class="card-front" src="images/bowser.jpg" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="luigi">
-            <img class="card-front" src="images/luigi.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="mario">
-            <img class="card-front" src="images/mario.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="peach">
-            <img class="card-front" src="images/peach.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="toad">
-            <img class="card-front" src="images/peach.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="yoshi">
-            <img class="card-front" src="images/yoshi.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="yoshi">
-            <img class="card-front" src="images/yoshi.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="bowser">
-            <img class="card-front" src="images/bowser.jpg" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="luigi">
-            <img class="card-front" src="images/luigi.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="mario">
-            <img class="card-front" src="images/mario.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="peach">
-            <img class="card-front" src="images/toad.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        <div class="card" data-card="toad">
-            <img class="card-front" src="images/peach.png" alt="Face da carta">
-            <img class="card-back" src="images/box.png" alt="Verso da carta">
-        </div>
-        
-    </main>
-    <script src="js/main.js"></script>
+    <div>
+        <h3>Verificação de validação de email</h3>
+        <form id="form" action="#">
+            <div class="inputBox">
+                <input type="text" id="email" placeholder="Insira seu e-mail" onkeyup="validate();">
+                <span class="indicator"></span>
+            </div>
+      </form>
+    </div>
+    <script>
+        function validate() {
+            const form = document.getElementById('form');
+            const email = document.getElementById('email').value;
+            const pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/
+
+            if(email.match(pattern)){
+                form.classList.add('valid')
+                form.classList.remove('invalid')
+            } else {
+                form.classList.add('invalid')
+                form.classList.remove('valid')
+            }
+            if (email == "") {
+                form.classList.remove('invalid')
+                form.classList.remove('valid')
+            }
+        }
+    </script>
 </body>
 </html>
