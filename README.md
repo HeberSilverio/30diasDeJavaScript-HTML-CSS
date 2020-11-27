@@ -227,12 +227,12 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/css/css3_animations.asp" rel="nofollow">CSS Animations</a>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
 
-## Desafio dia 14 - Neon light Button Effects on Hover 
+## Desafio dia 15 - Verificação de validação de email 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2014/Light-Button.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2014/Light-Button.gif" alt="Dia 11" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2014">Código Dia 14</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2015">Código Dia 15</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
 
 ### 🛠️ Tecnologias utilizadas
