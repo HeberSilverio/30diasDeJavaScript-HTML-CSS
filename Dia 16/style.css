@@ -1,0 +1,335 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    cursor: default;
+}
+
+@media(max-width: 400px){
+body {
+    background: #14bdac;
+}
+}
+
+@media(min-width: 400px){
+body {
+    width: 100vw;
+    height: 100vh;
+    background: -webkit-linear-gradient(-45deg, rgba(20,156,189,1) 0%, rgba(20,189,172,1) 75%);    background: cover;
+}
+}
+
+#principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 5%;
+}
+
+/*Tabuleiro*/
+#caixa1 {
+    background-color: #ebebeb;
+    width: 340px;
+    height: 420px;
+    margin:10px;
+    border-radius: 10px;
+    box-shadow: 1.5px 1px 7px black;
+}
+
+
+.titulo {
+    
+    font-size:36px;
+    margin: 20px auto;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+#tabuleiro {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.quadrado {
+	width: 100px;
+	height: 100px;
+    font-size:60px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.linha-vertical {
+    height: 300px;
+    border-right: 3px solid rgba(0, 0, 0, 0.5);
+    Position: absolute;
+}
+.c1 {margin-left: 100px;}
+.c2 {margin-left: 200px;}
+
+.linha-horizontal {
+    width: 300px;
+    border-bottom: 3px solid  rgba(0, 0, 0, 0.5);
+    Position: absolute;
+}
+.l1 {margin-top: 95px;}
+.l2 {margin-top: 195px;}
+
+/*Placar*/
+#caixa2 {
+    background-color: #ebebeb;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 1.5px 1px 7px black;
+    display: flex;
+    flex-wrap: wrap;  
+}
+
+#placar1 {
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+#caixa2 .container {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+#caixa2 .caixa1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    font-size:30px;
+}
+
+#x {
+    color: white;
+    background: rgba(0, 0, 255, 0.85);
+    transition: 0.5s ease-in-out;
+}
+
+#linha {
+    color: black;
+}
+
+#o {
+    color: white;
+    background: rgba(255, 0, 0, 0.85);
+    transition: 0.5s ease-in-out;
+}
+
+.sombra-normal {
+    box-shadow: 1.5px 1px 7px black;
+    cursor: pointer;
+}
+
+.sombra-espessa {
+    box-shadow: 4px 4px 10px 1px black;
+}
+
+#caixa2 .caixa2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-size:28px;
+}
+
+#placar2 {
+    width: 280px;
+    height: 100px;
+    margin: 0px 20px;
+    display: flex;
+    color: white;
+}
+
+#placar2 .caixa2 {
+    height: 80px;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+
+#placar2 .cor {
+    color: white;
+    background:#14bdac;
+    border-radius: 5px 5px 0 0;
+    transition: width linear;
+}
+
+#placar-x-numero, #placar-empate-numero, #placar-o-numero {
+    color: rgba(0, 0, 0, 0.85);
+    font-size:25px;
+}
+
+#placar-x, #placar-empate, #placar-o, #botao-modos-de-jogo, 
+#Jogador-Vs-Jogador, #Jogador-Vs-Maquina  {
+    transition: 0.3s ease-in-out;
+}
+
+#placar-x:hover, #placar-empate:hover, #placar-o:hover, #botao-modos-de-jogo:hover, 
+#Jogador-Vs-Jogador:hover, #Jogador-Vs-Maquina:hover {
+    box-shadow: 1px 1px 10px 0.3px black;
+    transform: scale(1.05, 1.05);
+}
+
+#botao-modos-de-jogo:hover {
+    cursor: pointer;
+}
+
+/*Link*/
+#rodape {
+	position: absolute;
+    margin-top: 0;
+}
+
+.vencedor {
+    display: flex;
+    z-index:1;
+    font-size: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+    width: 350px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 3px 3px 7px 0px blue;
+    border-radius: 10px;
+    position: absolute;
+    opacity: 1;
+    transition: opacity 0.6s linear;
+}
+
+.vencedor:hover {
+    opacity: 0.5;
+}
+
+.reiniciar:hover {
+    -webkit-transform: scale(1.25, 1.25);
+    transform: scale(1.25, 1.25);
+    border: none;
+    border-radius: 10px;
+}
+
+.vencedorvermelho {
+    color: red;
+    box-shadow: 3px 3px 7px 0px ;
+}
+
+.vencedorpreto {
+    color: black;
+    box-shadow: 3px 3px 7px 0px ;
+}
+
+.reiniciar {
+    font-size:20px ;
+    font-weight: bolder;
+    color: white;
+    padding: 6px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(0, 0, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor: pointer;
+    border: none;
+}
+
+.reiniciarvermelho {
+    background-color: rgba(255, 0, 0, 0.8);
+}
+
+.reiniciarpreto {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.textoJogador:hover {
+    font-size: 15px;
+}
+
+/*Novo modo de Jogo*/
+#modos-de-jogo {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+}
+
+.separador {
+    width: 20%;
+    height: 20px;
+    margin: 0 2.5%;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+}
+
+#botao-modos-de-jogo {
+    width: 45%;
+    height: 40px;  
+    background:#14bdac;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+#modos-de-jogo-interface {
+    z-index: 10;
+    visibility: hidden;
+    position: absolute;
+    background-color: #ebebeb;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;  
+}
+
+.modos-de-jogo {
+    width: 270px;
+    height: 105px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    margin: 10px auto;
+}
+
+#Jogador-Vs-Jogador {
+    background-color: rgba(0, 0, 255, 0.8);
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+#Jogador-Vs-Maquina {
+    background-color:rgba(255, 0, 0, 0.8);
+}
+
+h1 {
+    font-size: 18px;
+}
+
+#texto-Jogador-Vs-Jogador {
+    margin-top: 10px;
+}
+
+#texto-Jogador-Vs-Maquina {
+    margin-top: 5px;
+    font-size: 15px;
+}

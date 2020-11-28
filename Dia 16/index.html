@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jogo da Velha</title>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+    
+<div id="principal">
+
+    <div id="vencedor"><div id="vencedorTexto"></div><div id="reiniciar"  onclick="reiniciar()"></div></div>
+
+    <div id="caixa1"  onmouseover="mostrador1()" onmouseout="mostrador2()">
+        <h1 class="titulo">Jogo da Velha</h1>
+        
+        <div id="tabuleiro">
+
+            <div class="linha-vertical c1"></div>
+            <div class="linha-vertical c2"></div>
+            <div class="linha-horizontal l1"></div>
+            <div class="linha-horizontal l2"></div>
+
+            <div class="quadrado" id="0" jogada=""></div> 
+            <div class="quadrado" id="1" jogada=""></div> 
+            <div class="quadrado" id="2" jogada=""></div>
+
+            <div class="quadrado" id="3" jogada=""></div>
+            <div class="quadrado" id="4" jogada=""></div>
+            <div class="quadrado" id="5" jogada=""></div>
+
+            <div class="quadrado" id="6" jogada=""></div>
+            <div class="quadrado" id="7" jogada=""></div>
+            <div class="quadrado" id="8" jogada=""></div>
+
+        </div> 
+    </div>	
+
+    <div id="caixa2" onmouseover="(mostrador1())" onmouseout="mostrador2()">
+
+        <div id="placar1">
+            <div class="container" >
+                <div class="caixa1" id="x">X</div>
+                <div class="caixa1" id="linha">-</div>
+                <div class="caixa1 sombra-normal" id="o">O</div>
+            </div>
+        </div>
+
+        <div id="modos-de-jogo">
+            <div class="separador"></div>
+            <div id="botao-modos-de-jogo">Modos de Jogo</div>
+            <div class="separador"></div>
+        </div>
+
+        <div id="placar2">
+            <div class="container">
+                <div class="caixa2" id="placar-x"><div class="cor">X</div><div id="placar-x-numero">0</div></div>
+                <div class="caixa2" id="placar-empate"><div class="cor">E</div><div id="placar-empate-numero">0</div></div>
+                <div class="caixa2" id="placar-o"><div class="cor">O</div><div id="placar-o-numero">0</div></div>
+            </div> 
+        </div>
+
+        <div id="modos-de-jogo-interface">
+            <div class="modos-de-jogo" id="Jogador-Vs-Jogador"><h1>Jogador Vs Jogador</h1>
+                <p id="texto-Jogador-Vs-Jogador">Jogue com um amigo em uma <br> partida justa.</p>
+            </div>
+            <div  class="modos-de-jogo" id="Jogador-Vs-Maquina" Jogador-Vs-Maquina=""><h1>Jogador Vs Maquina</h1>
+                <p id="texto-Jogador-Vs-Maquina">Dispute contra uma maquina programada para sempre vencer. <br>
+                    Divirtasse tentando ganhar :)</p>
+            </div>
+        </div>
+
+    </div>
+    
+</div>
+
+    <script src="code.js"></script>
+
+</body>
+</html>
