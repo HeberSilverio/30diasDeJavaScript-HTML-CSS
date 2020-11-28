@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: #ffccbc;
+    background: #984063;
 }
 .action{
     position: fixed;
@@ -97,5 +97,5 @@ body{
     transition: 0.5s;
 }
 .action .menu ul li:hover a{
-    color: #ff5d94;
+    color: #00FF0A;
 }
