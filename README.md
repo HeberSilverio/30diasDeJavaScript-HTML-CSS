@@ -190,8 +190,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * <a href="https://www.w3schools.com/cssref/sel_nth-child.asp" rel="nofollow">CSS :nth-child() Selector</a>
 
 ## Desafio dia 12 - Menu suspenso da conta do usuário 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2012/img/someoneFamous.gif">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2012/img/someoneFamous.gif" alt="Dia 11" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2012/img/alguemFamoso.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2012/img/alguemFamoso.gif" alt="Dia 11" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2012">Código Dia 12</a> </br>
