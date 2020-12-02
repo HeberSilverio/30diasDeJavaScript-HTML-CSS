@@ -122,4 +122,15 @@ body
     height: 120px;
     background: #fff;
     border-radius: 50%;
+    animation: animate 5s linear infinite;
+    filter: blur(8px);
+    animation-delay: calc(var(--i) * -0.5s) ;
+}
+@keyframes animate
+{
+    0% { transform: translatey(0) scaleX(1); opacity: 0;}
+    15% { opacity: 1;}
+    50% { transform: translatey(-150px) scaleX(5);}
+    90% { opacity: 0;}
+    100% { transform: translatey(-300px) scaleX(10);}
 }

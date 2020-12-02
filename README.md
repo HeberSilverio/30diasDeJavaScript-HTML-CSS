@@ -57,6 +57,9 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 * Desafio dia 15 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-15---verifica%C3%A7%C3%A3o-de-valida%C3%A7%C3%A3o-de-email">Verificação de validação de email</a>
 
 * Desafio dia 16 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-16---jogo-da-velha-com-javascript">Jogo da velha com JavaScript</a>
+
+* Desafio dia 16 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-16---jogo-da-velha-com-javascript">Animated Tea Cup | CSS Animation</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -248,6 +251,20 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2016">Código Dia 16</a> </br>
 <a href="">Tutorial no YouTube</a> Ainda não disponível
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/js/js_es6.asp" rel="nofollow">ECMAScript 2015 - ES6</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Transformação</a></br>
+
+## Desafio dia 17 - Animated Tea Cup | CSS Animation
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2016/jogo-da-velha.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2016/jogo-da-velha.gif" alt="Dia 11" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2017">Código Dia 17</a> </br>
+
+Inspired By This : Create Animated Tea Cup - Pure Css Shape
+<a href="https://youtu.be/Tfsp4sE5y5E">Tutorial no YouTube</a>
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/js/js_es6.asp" rel="nofollow">ECMAScript 2015 - ES6</a></br>
