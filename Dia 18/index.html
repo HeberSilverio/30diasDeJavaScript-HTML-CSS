@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Reveal On Scratch | Vanilla JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script type="text/javascript">
+        document.addEventListener('mousemove', function(e){
+            const body = document.querySelector('body');
+            const bubbles = document.createElement('span');
+            bubbles.style.left = -75 + e.offsetX+'px';
+            bubbles.style.top = -75 + e.offsetY+'px';
+            body.appendChild(bubbles);
+        });
+
+    </script>
+</body>
+</html>
