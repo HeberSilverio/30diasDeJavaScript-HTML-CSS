@@ -60,6 +60,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 17 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-17---animated-tea-cup--css-animation">Animated Tea Cup | CSS Animation</a>
 
+* Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-17---animated-tea-cup--css-animation">Image Reveal On Scratch | Vanilla JavaScript</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -268,4 +270,18 @@ Inspired By This : Create Animated Tea Cup - Pure Css Shape
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/html/default.asp" rel="nofollow">HTML5</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 18 - Image Reveal On Scratch | Vanilla JavaScript
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif" alt="Dia 11" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2018">Código Dia 18</a> </br>
+
+Inspired By This : Pure JavaScript Scratch Effect | Html CSS
+<a href="https://youtu.be/qzcMiNKPSIk">Tutorial no YouTube</a>
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
