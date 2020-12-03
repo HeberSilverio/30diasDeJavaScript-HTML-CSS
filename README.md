@@ -60,7 +60,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 17 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-17---animated-tea-cup--css-animation">Animated Tea Cup | CSS Animation</a>
 
-* Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-17---animated-tea-cup--css-animation">Image Reveal On Scratch | Vanilla JavaScript</a>
+* Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-18---image-reveal-on-scratch--vanilla-javascript">Image Reveal On Scratch | Vanilla JavaScript</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -198,7 +198,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 12 - Menu suspenso da conta do usuário 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2012/img/alguemFamoso.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2012/img/alguemFamoso.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2012/img/alguemFamoso.gif" alt="Dia 12" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2012">Código Dia 12</a> </br>
@@ -211,7 +211,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 13 - Galloping horse only css
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2013/img/horse.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2013/img/horse.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2013/img/horse.gif" alt="Dia 13" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2013">Código Dia 13</a> </br>
@@ -223,7 +223,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 14 - Neon light Button Effects on Hover 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2014/Light-Button.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2014/Light-Button.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2014/Light-Button.gif" alt="Dia 14" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2014">Código Dia 14</a> </br>
@@ -236,7 +236,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 15 - Verificação de validação de email 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2015/valid-email.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2015/valid-email.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2015/valid-email.gif" alt="Dia 15" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2015">Código Dia 15</a> </br>
@@ -248,7 +248,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 16 - Jogo da velha com JavaScript
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2016/jogo-da-velha.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2016/jogo-da-velha.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2016/jogo-da-velha.gif" alt="Dia 16" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2016">Código Dia 16</a> </br>
@@ -260,7 +260,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 ## Desafio dia 17 - Animated Tea Cup | CSS Animation
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif" alt="Dia 11" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif" alt="Dia 17" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2017">Código Dia 17</a> </br>
@@ -273,8 +273,8 @@ Inspired By This : Create Animated Tea Cup - Pure Css Shape
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
 ## Desafio dia 18 - Image Reveal On Scratch | Vanilla JavaScript
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2017/Hot-Tea.gif" alt="Dia 11" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2018/ImageReveal.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2018/ImageReveal.gif" alt="Dia 18" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2018">Código Dia 18</a> </br>
