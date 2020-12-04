@@ -26,6 +26,8 @@
 
             const x = (window.innerWidth - e.pageX*speed)
             const y = (window.innerWidth - e.pageY*speed)
+
+            layer.style.transform = `translateX(${x}px translateY(${y}px)`
         })
     }
     </script>
