@@ -3,11 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-    
+    <title>Happy Diwali 2020 | Vanilla JavaScript</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
 <body>
-    
+    <section>
+        <div class="light">
+            <img src="./images/light.png" alt="">
+        </div>
+        <img src="./images/diya1.png" class="layer" data-spedd="-6">
+        <img src="./images/diya2.png" class="layer" data-spedd="10">
+        <img src="./images/diya3.png" class="layer" data-spedd="6">
+        <img src="./images/text1.png" class="layer" data-spedd="-8">
+        <img src="./images/text2.png" class="layer">
+    </section>
+    <script type="text/JavaScript">
+    document.addEventListener("mousemove", parallax);
+    function parallax(e) {
+        this.querySelectorAll('.layer').forEach(Layer => {
+            const speed = layer.
+        })
+    }
+    </script>
 </body>
 </html>
