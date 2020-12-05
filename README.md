@@ -62,6 +62,12 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-18---image-reveal-on-scratch--vanilla-javascript">Image Reveal On Scratch | Vanilla JavaScript</a>
 
+* Desafio dia 19 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-19---happy-diwali-2020--vanilla-javascript">Happy Diwali 2020 | Vanilla JavaScript</a>
+
+* Desafio dia 20 - <a href="">Image Reveal On Scratch | Vanilla JavaScript</a>
+
+* Desafio dia 21 - <a href="">Image Reveal On Scratch | Vanilla JavaScript</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -295,6 +301,18 @@ Inspired By This : Pure JavaScript Scratch Effect | Html CSS
 
 Inspired By This : Happy Diwali 2020 | Vanilla JavaScript | Html CSS
 <a href="https://youtu.be/c4mt8CRcaME">Tutorial no YouTube</a>
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 20 - Menu responsivo com media queries
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2019/images/diwali.PNG">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2019/images/diwali.PNG" alt="Dia 20" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2020">Código Dia 20</a> </br>
+
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
