@@ -1,77 +1,39 @@
-
-body {
+*{
     margin: 0;
     padding: 0;
-    background: #F7F7EB;
+    box-sizing: border-box;
+}
+body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    
-}
-ul {
-    position: relative;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    
-    
+    min-height: 100vh;
+    background: #000;
 }
 .loader {
-    width: 150px;
-    height: 150px;
     position: relative;
-    
-}
-
-span {
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    background-color:#e10832;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
-    animation: chase 3s linear infinite;
-    color: #FFF;
-    display: flex;
-    align-items: center;
-    justify-content: center; 
-    
+    overflow: hidden;
+    transform: rotate(175deg);
 }
-
-span:nth-child(1){
-    background:#FF345C;
-    animation-delay: 0.7s;
- 
+.loader span {
+    position: absolute;
+    top: calc(12px * var(--i));
+    left: calc(12px * var(--i));
+    right: calc(12px * var(--i));
+    bottom: calc(12px * var(--i));
+    border: 10px solid #0b0b0b;
+    border-top: 10px solid #0f0;
+    border-left: 10px solid #0f0;
+    border-radius: 50%;
+    animation: animate 1s alternate ease-in-out infinite;
+    filter: hue-rotate(calc(60deg * var(--i)));
+    animation-delay: calc(-0.1s * var(--i));
 }
+@keyframes animate {
+	0% {transform: rotate(0deg);}
 
-span:nth-child(2){
-    animation-delay: 1.4s;
-    background:#FF5576;
- 
-}
-
-span:nth-child(3){
-    animation-delay: 2.1s;
-    background:#FA7E97;
-    
-}
-
-@keyframes chase {
-	0% {top: 0; left: 0;}
-
-    12.5% { top: 0; left: 50%;}
-
-    25% { top: 0; left: 50%;}
-
-    37.5% { top: 50%; left: 50%;}
-
-    50% { top: 50%; left: 50%;}
-
-    62.5% { top: 50% ; left: 0;}
-
-    75% { top: 50% ; left: 0;}
-
-    82.5% { top: 0; left: 0;}
-
-    100% { top: 0; left: 0;}
+    100% {transform: rotate(90deg);}
 }
