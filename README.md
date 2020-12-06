@@ -62,7 +62,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-18---image-reveal-on-scratch--vanilla-javascript">Image Reveal On Scratch | Vanilla JavaScript</a>
 
-* Desafio dia 19 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-19---happy-diwali-2020--vanilla-javascript">Happy Diwali 2020 | Vanilla JavaScript</a>
+* Desafio dia 19 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-19---happy-diwali-2020--vanilla-javascript">Efeitos de animação de CSS rápidos</a>
 
 * Desafio dia 20 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-20---menu-responsivo-com-media-queries">Menu responsivo com media queries</a>
 
@@ -292,15 +292,15 @@ Inspired By This : Pure JavaScript Scratch Effect | Html CSS
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
-## Desafio dia 19 - Happy Diwali 2020 | Vanilla JavaScript
+## Desafio dia 19 - Efeitos de animação de CSS rápidos
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2019/images/diwali.PNG">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2019/images/diwali.PNG" alt="Dia 19" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2019">Código Dia 19</a> </br>
 
-Inspired By This : Happy Diwali 2020 | Vanilla JavaScript | Html CSS
-<a href="https://youtu.be/c4mt8CRcaME">Tutorial no YouTube</a>
+Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader Animation Effects Tutorial
+<a href="https://youtu.be/e1fDShHsPV8">Tutorial no YouTube</a>
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
