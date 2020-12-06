@@ -4,24 +4,107 @@
    padding: 0;
    box-sizing: border-box;
 }
-body
-{
-    background: #6741ae url(./images/bg.png);
-    background-size:cover;
-}
-section
-{
-    position: relative;
-    width: 100%;
+body {
+    margin: 0;
+    padding: 0;
     height: 100vh;
-    overflow: hidden;
+    background: #F7F7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
-section img
-{
+ul {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+    
+}
+ul li {
+    position: relative;
+    list-style: none;
+    width: 75px;
+    height: 75px;
+    margin: 0 10px;
+    border-radius: 20px;
+    /*transform: rotate(-30deg) skew(25deg);  */
+}
+
+ul li span {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height:100%;
-    object-fit: cover;
+    height: 100%;
+    background: #000;
+    transition: 0.5s;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 16px !important;
+    border-radius: 20px;
+    animation: loading 2s linear infinite;
+}
+ul li:hover span {
+    box-shadow: -1px 1px 1px rgba(0, 0, 0,.1)
+}
+/*
+ul li:hover span:nth-child(5) {
+    transform: translate(40px, -40px);
+    opacity: 1;
+
+}
+ul li:hover span:nth-child(4) {
+    transform: translate(30px, -30px);
+    opacity: 0.8;
+}
+
+ul li:hover span:nth-child(3) {
+    transform: translate(20px, -20px);
+    opacity: 0.6;    
+}
+*/
+
+ul li:hover span:nth-child(1) {
+    
+    opacity: 1;    
+}
+ul li:hover span:nth-child(2) {
+    
+    opacity: 1;    
+}
+ul li:hover span:nth-child(3) {
+    
+    opacity: 1;    
+}
+
+ul li:nth-child(1) span {
+    background:#FF345C;
+}
+
+ul li:nth-child(2) span {
+    background:#FF5576;
+}
+
+ul li:nth-child(3) span {
+    background:#FA7E97;
+}
+
+ul li:nth-child(4) span {
+    background:#FFA7B8;
+}
+
+ul li:nth-child(5) span {
+    background: #FFC7D2;
+}
+
+@keyframes loading {
+	0% { transform: rotateX(0deg) rotateY(0deg); }
+
+	50% { transform: rotateX(0deg) rotateY(180deg); }
+
+	100% { transform: rotateX(180deg) rotateY(180deg); }
 }
