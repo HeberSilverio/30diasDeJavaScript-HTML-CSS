@@ -62,11 +62,11 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 18 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-18---image-reveal-on-scratch--vanilla-javascript">Image Reveal On Scratch | Vanilla JavaScript</a>
 
-* Desafio dia 19 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-19---happy-diwali-2020--vanilla-javascript">Efeitos de animação de CSS rápidos</a>
+* Desafio dia 19 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-19---efeitos-de-anima%C3%A7%C3%A3o-de-css-r%C3%A1pidos">Efeitos de animação de CSS rápidos</a>
 
 * Desafio dia 20 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-20---menu-responsivo-com-media-queries">Menu responsivo com media queries</a>
 
-* Desafio dia 21 - <a href="">Image Reveal On Scratch | Vanilla JavaScript</a>
+* Desafio dia 21 - <a href="">Foguete voador com efeitos de animação de chamas</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -307,6 +307,18 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
 ## Desafio dia 20 - Menu responsivo com media queries
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif" alt="Dia 20" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2020">Código Dia 20</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 21 - Foguete voador com efeitos de animação de chamas
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif" alt="Dia 20" style="max-width: 100%;">
 </a>
