@@ -21,32 +21,39 @@ ul {
     width: 150px;
     height: 150px;
     position: relative;
-    border-radius: 20px;
-    /*transform: rotate(-30deg) skew(25deg);  */
+    
 }
 
 span {
     position: absolute;
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     background-color:#e10832;
-    border-radius: 4px;
+    border-radius: 50%;
     animation: chase 3s linear infinite;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
 }
 
 span:nth-child(1){
     background:#FF345C;
     animation-delay: 0.7s;
+ 
 }
 
 span:nth-child(2){
     animation-delay: 1.4s;
     background:#FF5576;
+ 
 }
 
 span:nth-child(3){
     animation-delay: 2.1s;
     background:#FA7E97;
+    
 }
 
 @keyframes chase {
