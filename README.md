@@ -66,7 +66,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 20 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-20---menu-responsivo-com-media-queries">Menu responsivo com media queries</a>
 
-* Desafio dia 21 - <a href="">Foguete voador com efeitos de animação de chamas</a>
+* Desafio dia 21 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-21---foguete-voador-com-efeitos-de-anima%C3%A7%C3%A3o-de-chamas">Foguete voador com efeitos de animação de chamas</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -319,11 +319,11 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
 ## Desafio dia 21 - Foguete voador com efeitos de animação de chamas
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2020/menuResponsivo.gif" alt="Dia 20" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2021/foguteVoador.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2021/foguteVoador.gif" alt="Dia 21" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2020">Código Dia 20</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2021">Código Dia 21</a> </br>
 
 
 ### 🛠️ Tecnologias utilizadas
