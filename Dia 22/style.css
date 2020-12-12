@@ -41,3 +41,38 @@ footer .container .sec.aboutus
 {
     width: 40%;
 }
+footer .container .sec.aboutus h2
+{
+    position: relative;
+    color: #FFF;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+footer .container h2::before
+{
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 2px;
+    background: #f00;
+}
+footer p
+{
+    color: #999;
+}
+.sci
+{
+    margin-top: 20px;
+    display: flex;
+}
+.sci li
+{
+    list-style: none;
+}
+.sci li a 
+{
+    display: inline-block;
+    6:32'
+}
