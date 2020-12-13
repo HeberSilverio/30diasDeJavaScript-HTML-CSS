@@ -41,7 +41,7 @@ footer .container .sec.aboutus
 {
     width: 40%;
 }
-footer .container .sec.aboutus h2
+footer .container h2
 {
     position: relative;
     color: #FFF;
@@ -74,5 +74,26 @@ footer p
 .sci li a 
 {
     display: inline-block;
-    6:32'
+    width: 40px;
+    height: 40px;
+    background: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.sci li a:hover
+{
+    background: #f00;
+} 
+.sci li a .fa
+{
+    color: #fff;
+    font-size: 20px;
+}
+.quickLinks
+{
+    
 }
