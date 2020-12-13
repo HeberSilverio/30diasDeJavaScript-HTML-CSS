@@ -83,6 +83,7 @@ footer p
     margin-right: 10px;
     text-decoration: none;
     border-radius: 4px;
+    color: #fff;
 }
 .sci li a:hover
 {
@@ -95,5 +96,88 @@ footer p
 }
 .quickLinks
 {
-    
+    position: relative;
+    width: 25%;
+}
+.quickLinks ul li
+{
+    list-style: none;
+}
+.quickLinks ul li a
+{
+    color: #999;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.quickLinks ul li a:hover
+{
+    color: #fff;
+}
+.contact
+{
+    width: calc(35% - 60px);
+    margin-right: 0 !important ;
+}
+.contact .info
+{
+    position: relative;
+}
+.contact .info li
+{
+    display: flex;
+    margin-bottom: 16px;
+}
+.contact .info li span:nth-child(1)
+{
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.contact .info li span 
+{
+    color: #999;
+}
+.contact .info li a
+{
+    color: #999;
+    text-decoration: none;
+}
+.contact .info li a:hover
+{
+    color: #fff;
+}
+.copyrightText
+{
+    width: 100%;
+    background: #181818;
+    padding: 8px 100px;
+    text-align: center;
+    color: #999;
+}
+@media (max-width: 991px)
+{
+    footer
+    {
+        padding: 40px;
+    }
+    footer .container
+    {
+        flex-direction: column;
+    }
+    footer .container .sec
+    {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    footer .container .sec.aboutus,
+    .quickLinks,
+    .contact
+    {
+        width: 100%;
+    }
+    .copyrightText
+    {
+        padding: 8px 40px;
+    }
 }
