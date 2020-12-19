@@ -1,6 +1,6 @@
 # Descrição do Projeto
  
-30 dias de JavaScript, HTML5 e CCS3, é um desafio para estudar fazendo mini projetos diários.
+30 dias de JavaScript, HTML5 e CSS3, é um desafio para estudar fazendo mini projetos diários.
 
 #### Objetivo e Sugestões
    * Desenvolver novas habilidades em JavaScript, HTML5 e CSS3 através da realização de mini projetos. 
@@ -330,7 +330,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
-* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure CSS Shape</a></br>
 
 ## Desafio dia 22 - Responsive Footer Design
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2022/footer-responsive.gif">
