@@ -81,4 +81,10 @@ body
     text-align: center;
     background: linear-gradient(45deg, #03a9f4,rgba(3,169,244,0.5));
     color: #fff;
+    opacity: 0;
+    transition: 0.5s;
+}
+.container .hexagon:hover .shape .content
+{
+    opacity: 1;
 }
