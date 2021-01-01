@@ -404,8 +404,8 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
 ## Desafio dia 27 - Fogo | Animated Text Typography
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2025/someone.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2024/loader-animation.gif" alt="Dia 22" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif" alt="Dia 22" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2027">Código Dia 27</a> </br>
