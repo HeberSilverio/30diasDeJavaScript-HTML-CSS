@@ -400,4 +400,5 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ### 🛠️ Tecnologias utilizadas
 
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
