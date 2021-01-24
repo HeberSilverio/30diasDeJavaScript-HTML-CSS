@@ -419,8 +419,8 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
 ## Desafio dia 28 - Fontawesome Background Animation | Requested Video
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif" alt="Dia 22" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif" alt="Dia 22" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2028">Código Dia 28</a> </br>
