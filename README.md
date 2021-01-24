@@ -80,7 +80,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 27 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-27---fogo--animated-text-typography">Fogo | Animated Text Typography</a>
 
-* Desafio dia 28 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-27---fogo--animated-text-typography">Fogo | Animated Text Typography</a>
+* Desafio dia 28 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-28---fontawesome-background-animation--requested-video">Fontawesome Background Animation | Requested Video</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -423,7 +423,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif" alt="Dia 22" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2027">Código Dia 28</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2028">Código Dia 28</a> </br>
 
 
 ### 🛠️ Tecnologias utilizadas
