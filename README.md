@@ -82,6 +82,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 28 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-28---fontawesome-background-animation--requested-video">Fontawesome Background Animation | Requested Video</a>
 
+* Desafio dia 29 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-28---fontawesome-background-animation--requested-video">Glassmorphism | Z-index Hover Effects</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -429,4 +431,17 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 ### 🛠️ Tecnologias utilizadas
 
 * <a href="https://www.bootstrapcdn.com/fontawesome" rel="nofollow">BootstrapCDN</a></br>
+* <a href="https://fontawesome.com/v4.7.0/icons/">41 novos ícones em 4.7</a></br>
+
+## Desafio dia 29 - Glassmorphism | Z-index Hover Effects
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2029">Código Dia 29</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.bootstrapcdn.com/fontawesome" rel="nofollow">BootstrapCDN - HTML</a></br>
 * <a href="https://fontawesome.com/v4.7.0/icons/">41 novos ícones em 4.7</a></br>
