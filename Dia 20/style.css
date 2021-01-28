@@ -7,9 +7,8 @@ body{
     font-family: 'Montserrat', sans-serif;
     background: #048ddd;
 }
-/*Linha divisoria da barra de menu*/
 .nav{
-    border-bottom: 1px solid #eaeaeb;
+    
     text-align: right;
     height: 70px;
     line-height: 70px;
@@ -21,12 +20,12 @@ body{
 .menu a{
     clear: right;
     text-decoration: none;
-    color: #daf1ff;
+    color: rgba(255, 255, 255, 0.7);
     margin: 0 10px;
-    line-height: 70px;
+    line-height: 5px;
 }
 .menu a:hover{
-    color:#0f4c5c;
+    color:#fff;
 }
 label{
     margin: 0 40px 0 0;
@@ -39,6 +38,29 @@ label{
 }
 #toggle{
     display: none;
+}
+.botao{
+    background-color:#ffb016;
+    color: #fff;
+    border: none;
+    padding: 6px 30px;
+    margin-top: 3%;
+    margin-right: 12px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+.botao:nth-child(1)
+{
+    height: 50px;
+    border-radius: 10px;
+}
+.botao:hover{
+    opacity: .7;
+    color: #fff;
+    background: rgb(251, 168, 13);
 }
 @media only screen and (max-width: 500px){
     label{
