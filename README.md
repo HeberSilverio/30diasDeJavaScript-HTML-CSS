@@ -84,7 +84,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 29 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-29---glassmorphism--z-index-hover-effects">Glassmorphism | Z-index Hover Effects</a>
 
-* Desafio dia 30 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-29---glassmorphism--z-index-hover-effects">JavaScript Clock UI Dark</a>
+* Desafio dia 30 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -448,9 +448,9 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.bootstrapcdn.com/fontawesome" rel="nofollow">BootstrapCDN - HTML</a></br>
 * <a href="https://fontawesome.com/v4.7.0/icons/">41 novos ícones em 4.7</a></br>
 
-## Desafio dia 29 - JavaScript Clock UI Dark
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2029/Z-index-Icon.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2029/Z-index-Icon.gif" alt="Dia 22" style="max-width: 100%;">
+## Desafio dia 30 - JavaScript Clock UI Dark
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2030">Código Dia 30</a> </br>
