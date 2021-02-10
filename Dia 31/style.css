@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+section
+{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background: #ff0;
+    width: 100%;
+    height: 300px;
+}
+#curve
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#curve path
+{
+    fill: #fff;
+}
+section.sec2
+{
+    width: 100%;
+    height: 50vh;
+    background: #fff;
+}
+#curve1
+{
+    position: absolute;
+    
+    width: 100%;
+}
+#curve1 path
+{
+    fill: #000;
+}
+section.sec3
+{
+    
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    background-image: url(./img/bg-depositions.png);
+    background-repeat: no-repeat;
+    
+}
+section.sec3 h2 {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: #fff;
+    
+}
