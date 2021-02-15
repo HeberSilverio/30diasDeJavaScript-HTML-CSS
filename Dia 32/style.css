@@ -1,5 +1,10 @@
 #mais{
     display: none;
+    transition: opacity 3s linear;
+}
+#mais{
+    opacity: 1;
+    
 }
 
 /* botões */
@@ -20,10 +25,11 @@
     color:#fff; 
     background-color: #3071a9; 
     border-color: #8e9aa5;
-    transform: translateY(30px);
+    /* transform: translateY(30px); */
     
     
 }
 
-.btn-azul { margin-top: 10px; font-size: 14px; line-height: 14px; padding: 10px 20px; border-radius: 8px; background: #428bca; border-color: #357ebd; align-content: center; }
+.btn-azul { margin-top: 10px; font-size: 14px; line-height: 14px; padding: 10px 20px; border-radius: 8px; background: #428bca; border-color: #357ebd; align-content: center;
+ }
 
