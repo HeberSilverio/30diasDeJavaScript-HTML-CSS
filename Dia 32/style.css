@@ -1,21 +1,35 @@
-div.wrapper {
-    background-color:black;
-     width:500px;
+#mais{
+    display: none;
+    transition: opacity 3s linear;
+}
+#mais{
+    opacity: 1;
+    
 }
 
-div.curve {
-  background-color:white;
-  width:500px;
-  height:150px;
+/* botões */
+
+.btn { 
+    width: auto; 
+    text-align: center; 
+    /* transition: color 0.4s, border 0.4s, background 0.4s !important;  */
+    color: #fff; 
+    font-weight: bold; 
+    letter-spacing: 1px; 
+    border-radius: 8px;
+    transition: transform 2s;
+    
 }
 
-div.curve-top{   
-    border-bottom-left-radius:70%;
-    border-bottom-right-radius:70%;
+.btn:hover{
+    color:#fff; 
+    background-color: #3071a9; 
+    border-color: #8e9aa5;
+    /* transform: translateY(30px); */
+    
+    
 }
 
-div.curve-bottom {  
-    margin-top: 50px;
-    border-top-left-radius:70%;
-    border-top-right-radius:70%;
-}
+.btn-azul { margin-top: 10px; font-size: 14px; line-height: 14px; padding: 10px 20px; border-radius: 8px; background: #428bca; border-color: #357ebd; align-content: center;
+ }
+
