@@ -1,0 +1,21 @@
+div.wrapper {
+    background-color:black;
+     width:500px;
+}
+
+div.curve {
+  background-color:white;
+  width:500px;
+  height:150px;
+}
+
+div.curve-top{   
+    border-bottom-left-radius:70%;
+    border-bottom-right-radius:70%;
+}
+
+div.curve-bottom {  
+    margin-top: 50px;
+    border-top-left-radius:70%;
+    border-top-right-radius:70%;
+}

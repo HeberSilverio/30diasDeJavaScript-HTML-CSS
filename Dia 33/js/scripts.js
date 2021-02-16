@@ -1,0 +1,5 @@
+$(function(){
+    $('.watch-slider').slick({
+        
+    });
+})
