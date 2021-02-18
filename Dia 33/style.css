@@ -1,13 +1,18 @@
+
 div {
+    
+    opacity: 1;
     overflow:hidden;
     max-height: 600px;
-    transition: max-height 3s linear;
+    transition: max-height 2s linear;
     
   }
   
    div.hide {
+    
     max-height: 0;
     pointer-events: none; 
+    
   }
   
   

@@ -1,10 +1,9 @@
 #mais{
     display: none;
-    transition: opacity 3s linear;
 }
-#mais{
-    opacity: 1;
-    
+
+.visivel{
+    display: inline;
 }
 
 /* botões */
