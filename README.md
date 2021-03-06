@@ -86,6 +86,16 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 30 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
 
+* Desafio dia 31 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+
+* Desafio dia 32 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+
+* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+
+* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+
+* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -454,6 +464,70 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2030">Código Dia 30</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 31 - JavaScript Clock UI Dark
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2031">Código Dia 31</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 32 - Botão Leia Mais com JavaScript
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2032">Código Dia 32</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+
+## Desafio dia 33 - JavaScript Clock UI Dark
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2033">Código Dia 33</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 34 - JavaScript Clock UI Dark
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2034">Código Dia 34</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+
+## Desafio dia 35 - JavaScript Clock UI Dark
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2035">Código Dia 35</a> </br>
 
 
 ### 🛠️ Tecnologias utilizadas
