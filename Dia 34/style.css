@@ -1,0 +1,42 @@
+div {
+    overflow:hidden;
+    max-height: 600px;
+    transition: max-height 3s linear;
+    
+  }
+  
+   div.hide {
+    max-height: 0;
+    pointer-events: none; 
+  }
+  
+  
+.btn { 
+    width: auto; 
+    text-align: center; 
+    color: #fff; 
+    font-weight: bold; 
+    letter-spacing: 1px; 
+    border-radius: 8px;
+    margin-top: 10px;
+    
+}
+
+.btn:hover{
+    color:#fff; 
+    background-color: #3071a9; 
+    border-color: #8e9aa5;
+}
+
+.btn-azul { 
+    margin-top: 10px; 
+    font-size: 14px; 
+    line-height: 14px; 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    background: #428bca; 
+    border-color: #357ebd; 
+    align-content: center; 
+    margin: 10px;
+    
+}
