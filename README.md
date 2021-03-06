@@ -92,7 +92,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">Botão Leia Mais com JavaScript #2</a>
 
-* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">Botão Leia Mais com Bootstrap 5</a>
 
 * Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
 
@@ -484,7 +484,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
-## Desafio dia 32 - Botão Leia Mais com JavaScript
+## Desafio dia 32 - Botão Leia Mais com JavaScript #1
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif" alt="Dia 32" style="max-width: 100%;">
 </a>
@@ -496,7 +496,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 
-## Desafio dia 33 - JavaScript Clock UI Dark
+## Desafio dia 33 - Botão Leia Mais com JavaScript #2
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif" alt="Dia 33" style="max-width: 100%;">
 </a>
@@ -509,7 +509,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
-## Desafio dia 34 - JavaScript Clock UI Dark
+## Desafio dia 34 - Botão Leia Mais com Bootstrap 5
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
     <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
 </a>

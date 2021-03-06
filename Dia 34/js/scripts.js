@@ -1,5 +1,0 @@
-$(function(){
-    $('.watch-slider').slick({
-        
-    });
-})

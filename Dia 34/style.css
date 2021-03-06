@@ -1,4 +1,15 @@
-div {
+/* body {
+    background-color: #000b2d!important;
+    color: #708090;
+    font-family: 'Poppins' sans-serif;
+}
+
+.explicacao h1, .explicacao p {
+    color: #FFF;
+} */
+
+
+/* div {
     overflow:hidden;
     max-height: 600px;
     transition: max-height 3s linear;
@@ -39,4 +50,4 @@ div {
     align-content: center; 
     margin: 10px;
     
-}
+} */
