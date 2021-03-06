@@ -88,9 +88,9 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 31 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-31---30-svg-para-adicionar-em-seus-projetos">30 SVG para adicionar em seus projetos</a>
 
-* Desafio dia 32 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-32---bot%C3%A3o-leia-mais-com-javascript">Botão leia mais com java Script</a>
+* Desafio dia 32 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-32---bot%C3%A3o-leia-mais-com-javascript">Botão Leia Mais com JavaScript #1</a>
 
-* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">Botão Leia Mais com JavaScript #2</a>
 
 * Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
 
@@ -384,7 +384,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 24 - Neumorphism Animation
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2024/loader-animation.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2024/loader-animation.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2024/loader-animation.gif" alt="Dia 24" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2024">Código Dia 24</a> </br>
@@ -396,7 +396,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 25 - CSS Hexagon Div Hover Effects
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2025/someone.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2025/someone.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2025/someone.gif" alt="Dia 25" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2025">Código Dia 25</a> </br>
@@ -408,7 +408,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 26 - Animated Christmas Banner
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2026/happy.gif">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2026/happy.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2026/happy.gif" alt="Dia 26" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2026">Código Dia 26</a> </br>
@@ -421,7 +421,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 27 - Fogo | Animated Text Typography
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2027/fogo.gif" alt="Dia 27" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2027">Código Dia 27</a> </br>
@@ -434,7 +434,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 28 - Fontawesome Background Animation | Requested Video
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2028/hoverIcons.gif" alt="Dia 28" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2028">Código Dia 28</a> </br>
@@ -447,7 +447,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 29 - Glassmorphism | Z-index Hover Effects
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2029/Z-index-Icon.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2029/Z-index-Icon.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2029/Z-index-Icon.gif" alt="Dia 29" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2029">Código Dia 29</a> </br>
@@ -460,7 +460,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 30 - JavaScript Clock UI Dark
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 30" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2030">Código Dia 30</a> </br>
@@ -473,7 +473,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 31 - 30 SVG para adicionar em seus projetos
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2031/diversos-SVG.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2031/diversos-SVG.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2031/diversos-SVG.gif" alt="Dia 31" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2031">Código Dia 31</a> </br>
@@ -486,7 +486,7 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 ## Desafio dia 32 - Botão Leia Mais com JavaScript
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif" alt="Dia 22" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2032/btn-readMore.gif" alt="Dia 32" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2032">Código Dia 32</a> </br>
@@ -497,8 +497,8 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 
 ## Desafio dia 33 - JavaScript Clock UI Dark
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2030/image/clock.gif" alt="Dia 22" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif" alt="Dia 33" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2033">Código Dia 33</a> </br>
