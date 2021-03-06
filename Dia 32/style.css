@@ -1,12 +1,14 @@
 body {
-    background-color: rgb(253, 227, 227);
-    color: rgb(10, 38, 124);
+    background-color: #000b2d;
+    color: #708090;
     font-family: 'Poppins' sans-serif;
 }
 p {
     font-size: 1.1rem;
 }
-
+.explicacao h1, .explicacao p {
+    color: #FFF;
+}
 #mais{
     display: none;
 }
