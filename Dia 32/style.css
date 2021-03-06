@@ -1,13 +1,17 @@
+body {
+    background-color: rgb(253, 227, 227);
+    color: rgb(10, 38, 124);
+    font-family: 'Poppins' sans-serif;
+}
+p {
+    font-size: 1.1rem;
+}
+
 #mais{
     display: none;
 }
 
-.visivel{
-    display: inline;
-}
-
 /* botões */
-
 .btn { 
     width: auto; 
     text-align: center; 

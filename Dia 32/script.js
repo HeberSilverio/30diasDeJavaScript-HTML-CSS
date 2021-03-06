@@ -9,8 +9,7 @@ function leiaMais(){
         btnLeiaMais.innerHTML="Leia Mais";
     }else{
         pontos.style.display="none";
-        maisTexto.className = "visivel"
-        // maisTexto.style.display="inline";
+        maisTexto.style.display="inline";
         btnLeiaMais.innerHTML="Leia Menos";
     }
 }
