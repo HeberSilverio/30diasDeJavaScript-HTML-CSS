@@ -26,7 +26,7 @@ section {
     height: 50px; 
 }
 #arrow-negative{position: absolute;bottom: 0;    width: 100%;}
-#arrow-negative path{fill: rgb(117, 14, 14);}
+#arrow-negative path{fill: #000;}
 
 
 .cor1 {
