@@ -94,7 +94,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-34---bot%C3%A3o-leia-mais-com-bootstrap-5">Botão Leia Mais com Bootstrap 5</a>
 
-* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">JavaScript Clock UI Dark</a>
+* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-30---javascript-clock-ui-dark">Slider Center Zoom</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -522,8 +522,8 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/html/default.asp" rel="nofollow">HTML5</a></br>
 * <a href="https://getbootstrap.com.br/" rel="nofollow">Bootstrap 5</a></br>
 
-## Desafio dia 35 - 
-<a target="_blank" rel="noopener noreferrer" href=".gif">
+## Desafio dia 35 - Slider Center Zoom
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2035/slick-slider.gif">
     <img src=".gif" alt="Dia 35" style="max-width: 100%;">
 </a>
 
@@ -533,4 +533,4 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 ### 🛠️ Tecnologias utilizadas
 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
-* <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
+* <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
