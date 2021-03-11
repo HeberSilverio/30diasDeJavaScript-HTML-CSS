@@ -1,0 +1,127 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(210, 243, 237);
+}
+
+.global-page-container {
+	width: 100%;
+	display: inline-block;
+  margin: auto;
+  height: 100%;
+}
+
+.watch-slider {
+  padding: 80px 0 60px 0;
+  overflow: hidden;
+
+}
+
+.watch-slider .slide {
+  transform: scale(0.6);
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  outline: none !important;
+}
+
+.watch-slider .slide.slick-center {
+  transform: scale(1);
+}
+
+.arrow {
+  display: inline-block;
+  margin: 0 10px;
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: 70% auto;
+  background-position: center;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+#arrow-prev {
+  background-image: url('../img/arrow_prev.svg');
+}
+
+#arrow-next {
+  background-image: url('../img/arrow_next.svg');
+}
+
+.description {
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  width: 200px;
+  vertical-align: middle;
+  font-family: 'Poppins';
+  font-weight: 300;
+  color: #3a3a3a;
+
+}
+
+#watch-price {
+  color: #ff5722;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 28px;
+}
+
+
+/* **********************************************************************************************
+***********************************   MEDIA QUERIES   ******************************************* 
+********************************************************************************************** */
+
+/* Small Screens *****************************************************************************/
+
+  @media only screen and (max-width: 640px) {
+
+
+  }   
+
+/* End of small Screens*/
+
+
+
+/* Medium Screens ****************************************************************************/
+
+  @media only screen and (min-width: 641px) and (max-width: 1023px) {
+    .watch-slider .slide {
+      width: 33%;
+    }
+  }
+
+/* End of Medium Screens*/
+
+
+
+
+/* Large Screens *****************************************************************************/
+
+  @media only screen and (min-width: 1024px) and (max-width: 1440px) { 
+      
+    .global-page-container {
+      width: 1024px;
+    }
+      
+  }
+
+/*   End of Large Screens*/
+
+
+
+/* Extra Large Screens ***********************************************************************/
+
+  @media only screen and (min-width: 1441px) {
+      
+    .global-page-container {
+      width: 1440px;
+    }
+            
+  }
+
+/* End of Extra Large Screens*/

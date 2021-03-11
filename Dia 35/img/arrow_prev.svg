@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="18px" viewBox="0 0 36 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Button_Left Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Desktop_1440px" transform="translate(-525.000000, -2129.000000)" stroke="#000000">
+            <g id="Block-3_Diamond-Shapes" transform="translate(0.000000, 1710.000000)">
+                <g id="Button_Left-Arrow" transform="translate(525.000000, 420.000000)">
+                    <polyline id="Line-26" points="8.5999999 0 0 8 8.5999999 16"></polyline>
+                    <path d="M1.0999999,8 L35.5,8" id="Line-25"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

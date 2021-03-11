@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="18px" viewBox="0 0 36 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Button_Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_1180px" transform="translate(-1044.000000, -4643.000000)">
+            <g id="Block-8_Signup" transform="translate(0.000000, 4456.000000)">
+                <g id="Button_Arrow" transform="translate(1058.500000, 196.000000) rotate(-180.000000) translate(-1058.500000, -196.000000) translate(1037.000000, 176.000000)">
+                    <rect id="Rectangle" x="-3.63797881e-12" y="0" width="43" height="40"></rect>
+                    <polyline id="Line-26" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="8.5999999 12 -4.54747351e-12 20 8.5999999 28"></polyline>
+                    <path d="M1.0999999,20 L35.5,20" id="Line-25" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
