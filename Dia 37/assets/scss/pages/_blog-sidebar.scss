@@ -1,0 +1,173 @@
+/*----- blog sidebar start -------*/
+.blog-sidebar-wrapper {
+    // responsive
+    @media #{$md-device, $sm-device} {
+        margin-top: 50px;
+    }
+    .blog-sidebar {
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+.blog-sidebar {
+    margin-bottom: 35px;
+    background-color: $white;
+    padding: 15px;
+    // sidebar title
+    .title {
+        color: $black-soft;
+        font-size: 20px;
+        line-height: 1;
+        margin-top: -2px;
+        font-weight: 400;
+        margin-bottom: 40px;
+        position: relative;
+        text-transform: capitalize;
+        font-family: $font-family-heading;
+        // Responsive
+        @media #{$xxs-device} {
+            font-size: 18px;
+        }
+        &:before {
+            width: 100%;
+            height: 1px;
+            bottom: -10px;
+            left: 0;
+            background-color: $bdr-color;
+            content: "";
+            position: absolute;
+        }
+    }
+
+    // sidebar search form
+    .search-field {
+        width: calc(100% - 50px);
+        border: 1px solid #ccc;
+        padding: 0 10px;
+        color: $paragraph;
+        font-size: 14px;
+        height: 50px;
+        float: left;
+        text-transform: capitalize;
+    }
+    .search-btn {
+        width: 50px;
+        height: 50px;
+        margin-left: -4px;
+        text-align: center;
+        cursor: pointer;
+        background-color: #f8f8f8;
+        border: 1px solid #ccc;
+        transition: 0.4s;
+        i {
+            font-size: 20px;
+            line-height: 50px;
+            color: $black-soft;
+            transition: 0.4s;
+        }
+        &:hover {
+            background-color: $theme-color;
+            border-color: $theme-color;
+            i {
+                color: $white;
+            }
+        }
+    }
+
+    // archives
+    .blog-archive {
+        margin-top: -10px;
+        li {
+            a {
+                color: $paragraph;
+                font-size: 14px;
+                line-height: 1;
+                text-transform: capitalize;
+                padding: 13px 0;
+                display: inline-block;
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+            &:last-child {
+                a {
+                    padding-bottom: 0;
+                }
+            }
+            &:first-child {
+                a {
+                    padding-top: 0;
+                }
+            }
+        }
+    }
+
+    // blog tags
+    .blog-tags {
+        li {
+            display: inline-block;
+            margin-bottom: 5px; 
+            a {
+                color: $black-soft;
+                font-size: 13px;
+                border: 1px solid #ccc;
+                padding: 6px 15px 4px;
+                display: inline-block;
+                text-transform: uppercase;
+                &:hover {
+                    color: $white;
+                    background-color: $theme-color;
+                    border-color: $theme-color;
+                }
+            }
+        }
+    }
+}
+/*----- blog sidebar end -------*/
+
+// blog category
+.blog-category {
+    margin-top: -10px;
+}
+
+/*------ recent post start ------*/
+.recent-post {
+    .recent-post-item  {
+         &:last-child {
+             margin-bottom: 0;
+        }
+    }
+}
+.recent-post-item {
+    margin-bottom: 30px;
+    display: flex;
+    .product-thumb {
+        max-width: 70px;
+        flex: 1 0 70px;
+    }
+    .recent-post-description {
+        padding-left: 10px;
+        h4 {
+            font-size: 15px;
+            line-height: 1.3;
+            font-weight: 400;
+            padding-bottom: 10px;
+            text-transform: capitalize;
+            // responsive
+            @media #{$lg-device} {
+                padding-bottom: 5px;
+            }
+            a {
+                color: $black-soft;
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+        }
+        p {
+            text-transform: capitalize;
+        }
+    }
+}
+/*------ recent post end ------*/

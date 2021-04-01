@@ -1,0 +1,95 @@
+/*--------- hero slider start ---------*/
+.hero-slider {
+    &-item {
+        height: 500px;
+        // responsive
+        @media #{$md-device, $sm-device} {
+            height: 400px;
+        }
+        // responsive
+        @media #{$xs-device} {
+            height: 350px;
+        }
+        &.stlder-style_2 {
+            height: 552px;
+            // responsive
+            @media #{$md-device} {
+                height: 424px;
+            }
+            @media #{$sm-device} {
+                height: 350px;
+            }
+        }
+    }
+    &-content {
+        h2 {
+            color: #ede554;
+            font-size: 32px;
+            font-weight: 500;
+            line-height: 1.2;
+            padding-bottom: 10px;
+            text-transform: uppercase;
+            // responsive
+            @media #{$xs-device} {
+                font-size: 22px;
+            }
+        }
+        h1 {
+            color: $white;
+            font-size: 45px;
+            font-weight: 500;
+            line-height: 1.2;
+            padding-bottom: 15px;
+            text-transform: uppercase;
+            // responsive
+            @media #{$xs-device} {
+                font-size: 35px;
+            }
+        }
+        h3 {
+            color: $white;
+            font-size: 22px;
+            font-weight: 400;
+            line-height: 1.3;
+            text-transform: uppercase;
+            // responsive
+            @media #{$xs-device} {
+                font-size: 18px;
+            }
+        }
+        .btn-hero,
+        .btn-outline {
+            margin-top: 25px;
+        }
+    }
+    &-content_2 {
+        padding-left: 50px;
+        // responsive
+        @media #{$xs-device} {
+            padding-left: 30px;
+        }
+    }
+}
+/*------ hero slider for home 4 end ------*/
+
+// slider text animation
+.slick-current {
+    .hero-slider-content {
+        h2 {
+            animation-name: fadeInUp;
+            animation-duration: 1s; 
+        }
+        h1 {
+            animation-name: fadeInUp;
+            animation-duration: 1.5s; 
+        }
+        h3 {
+            animation-name: fadeInUp;
+            animation-duration: 2s; 
+        }
+        a {
+            animation-name: fadeInUp;
+            animation-duration: 2.5s; 
+        }
+    }
+}

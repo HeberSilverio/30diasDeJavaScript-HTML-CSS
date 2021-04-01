@@ -1,0 +1,205 @@
+
+/*--------- Cart Page Wrapper Start ---------*/
+// Cart Table Style
+.cart-table {
+    & .table {
+        margin: 0;
+        white-space: nowrap;
+
+        // Head
+        & thead {
+            background-color: $theme-color;
+
+            & tr {
+                & th {
+                    border-color: $theme-color;
+                    border-bottom: 0 solid transparent;
+                    color: $white;
+                    font-size: 14px;
+                    font-weight: 500;
+                    padding: 15px 20px;
+                    text-align: center;
+                    text-transform: uppercase;
+                }
+            }
+        }
+
+        // Body
+        & tbody {
+            & tr {
+                & td {
+                    border-color: #ccc;
+                    text-align: center;
+                    padding: 10px 20px;
+                    vertical-align: middle;
+                    font-weight: 500;
+                    color: $black-soft;
+
+                    a {
+                        color: $black-soft;
+                        font-weight: 400;
+                        text-transform: capitalize;
+                        &:hover {
+                            color: $theme-color;
+                        }
+
+                        &.btn {
+                            color: $white;
+
+                            &:hover {
+                                color: $white;
+                            }
+                        }
+                        &.check-btn {
+                            color: $white;
+                        }
+                    }
+                }
+            }
+        }
+
+        tr {
+            .pro-thumbnail,
+            .pro-price,
+            .pro-quantity,
+            .pro-subtotal,
+            .pro-remove {
+                width: 140px;
+            }
+            .pro-qty{
+                width: 90px;
+                height: 40px;
+                border: 1px solid #ddd;
+                padding: 0 15px;
+                float: left;
+                & .qtybtn {
+                    width: 15px;
+                    display: block;
+                    float: left;
+                    line-height: 38px;
+                    cursor: pointer;
+                    text-align: center;
+                    font-size: 22px;
+                    font-weight: 400;
+                    color: $paragraph;
+                }
+                & input {
+                    width: 28px;
+                    float: left;
+                    border: none;
+                    height: 40px;
+                    line-height: 34px;
+                    padding: 0;
+                    text-align: center;
+                    background-color: transparent;
+                }
+            }
+        }
+    }
+}
+
+// Cart Update Option
+.cart-update-option {
+    border: 1px solid #ccc;
+    margin-top: 15px;
+    padding: 15px 20px;
+    align-items: center;
+    justify-content: space-between;
+    // responsive
+    @media #{$xl-device, $lg-device} {
+        margin-top: 0;
+        border-top: 0 solid transparent;
+    }
+
+    .apply-coupon-wrapper {
+        width: 55%;
+
+        @media #{$sm-device, $md-device} {
+            width: auto;
+        }
+
+        form {
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+
+            input {
+                border: 1px solid #ccc;
+                font-size: 14px;
+                padding: 9px 10px;
+                outline: none;
+                margin-right: 15px;
+                width: 100%;
+                transition: 0.4s;
+                &:focus,
+                &:active {
+                    border-color: $theme-color;
+                }
+            }
+        }
+        // Responsive
+        @media #{$sm-device} {
+            & button {
+                display: block;
+                width: 100%;
+                margin-top: 15px;
+                border-radius: 0;
+            }
+        }
+    }
+    .cart-update {
+        // responsive
+        @media #{$sm-device} {
+            margin-top: 15px;
+        }
+        .btn {
+            @media #{$sm-device} {
+                width: 100%;
+            }
+        }
+    }
+}
+
+
+
+.cart-calculator-wrapper {
+    margin-top: 30px;
+    background-color: #f8f8f8;
+
+    h3 {
+        color: $black-soft;
+        font-size: 18px;
+        font-weight: 500;
+        padding: 27px 15px 25px;
+        margin-bottom: 0;
+    }
+
+    .cart-calculate-items {
+        font-weight: 500;
+
+        .table {
+            margin-bottom: 0;
+
+            tr {
+                td {
+                    color: $black-soft;
+                    padding: 15px 20px;
+                    &:nth-child(2) {
+                        color: $black-soft;
+                        text-align: right;
+                    }
+
+                    &.total-amount {
+                        color: $theme-color;
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+    }
+    & a {
+        border-radius: 0;
+        text-align: center;
+    }
+}
+/*--------- Cart Page Wrapper end ---------*/

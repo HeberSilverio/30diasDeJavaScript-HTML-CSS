@@ -1,0 +1,89 @@
+/*-------- Newsletter box start --------*/
+.newsletter-area {
+    padding: 50px 0;
+    // responsive
+    @media #{$sm-device} {
+        padding: 42px 0 50px;
+    }
+}
+.newsletter-title {
+    display: flex;
+    align-items: center;
+    // responsive
+    @media #{$sm-device} {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    .newsletter-icon {
+        font-size: 32px;
+        color: $white;
+        line-height: 1;
+        padding-right: 10px;
+    }
+    h3 {
+        color: $white;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 1.2;
+        text-transform: capitalize;
+    }
+}
+.newsletter-inner {
+    padding: 0 50px;
+    // responsive
+    @media #{$lg-device, $md-device} {
+        padding: 0;
+    }
+    @media #{$xs-device} {
+        padding: 0 20px;
+    }
+    @media #{$xxs-device} {
+        padding: 0;
+    }
+    form {
+        position: relative;
+    }
+    .news-field {
+        width: 100%;
+        height: 44px;
+        display: block;
+        border: none;
+        line-height: 1;
+        padding: 0 110px 0 15px;
+        color: $white;
+        background-color: #3a424b;
+        position: relative;
+        border-radius: 5px;
+    }
+    .news-btn {
+        position: absolute;
+        right: 0;
+        top: 0;
+        font-size: 14px;
+        height: 44px;
+        color: $white;
+        line-height: 1;
+        font-weight: 400;
+        padding: 0 15px;
+        display: inline-block;
+        background-color: $theme-color;
+        border-radius: 0 5px 5px 0;
+        &:hover {
+            background-color: darken($theme-color, 10%);
+        }
+    }
+}
+
+.payment-method {
+    // responsive
+    @media #{$md-device, $sm-device} {
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+/*-------- Newsletter box end --------*/
+
+.mailchimp-success {
+    color: $white;
+    font-size: 16px;
+}

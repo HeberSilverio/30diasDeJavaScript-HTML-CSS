@@ -1,0 +1,219 @@
+
+/*------- blog main content wrapper start --------*/
+.blog-post-item  {
+    .tag-line {
+        padding: 10px 0;
+        margin-top: 20px;
+        border-top: 1px solid $bdr-color;
+        border-bottom: 1px solid $bdr-color;
+        h5 {
+            color: $black-soft;
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase;
+            display: inline-block;
+            padding-right: 5px;
+        }
+        a {
+            color: $black-soft;
+            font-style: italic;
+            font-size: 14px;
+            text-transform: capitalize;
+            &:hover {
+                color: $theme-color;
+            }
+        }
+    }
+}
+// blog social share link
+.blog-share-link {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    // responsive
+    @media #{$md-device, $sm-device} {
+        padding-top: 15px;
+    }
+    h5 {
+        font-size: 14px;
+        font-weight: 500;
+        color: $black-soft;
+        padding-right: 15px;
+        text-transform: uppercase;
+    }
+    .blog-social-icon {
+        a {
+            width: 36px;
+            height: 36px;
+            font-size: 15px;
+            line-height: 36px;
+            text-align: center;
+            display: inline-block;
+            color: $white;
+            border-radius: 50%;
+            margin-right: 5px;
+            &.facebook {
+                background-color: $facebook;
+            }
+            &.twitter {
+                background-color: $twitter;
+            }
+            &.pinterest {
+                background-color: $pinterest;
+            }
+            &.google {
+                background-color: $google-plus;
+            }
+            &:hover {
+                &.facebook {
+                    background-color: darken($facebook, 10%); 
+                }
+                &.twitter {
+                    background-color: darken($twitter, 10%); 
+                }
+                &.pinterest {
+                    background-color: darken($pinterest, 10%); 
+                }
+                &.google {
+                    background-color: darken($google-plus, 10%); 
+                }
+            }
+            // responsive
+            @media #{$xxs-device} {
+                width: 30px;
+                height: 30px;
+                line-height: 30px;
+                font-size: 13px;
+                margin-right: 0;
+            }
+        }
+    }
+}
+/*--- blog main content wrapper end ---*/
+
+/*--- blog comment section start ---*/
+.comment-section {
+    h3 {
+        color: $black-soft;
+        font-size: 18px;
+        line-height: 1;
+        font-weight: 500;
+        padding-bottom: 15px;
+        text-transform: uppercase;
+    }
+    ul {
+        li {
+            display: flex;
+            padding: 10px 20px;
+            margin-bottom: 30px;
+            border: 1px solid $bdr-color;
+            &:last-child {
+                margin-bottom: 5px;
+            }
+            // Responsive
+            @media #{$xxs-device} {
+                display: block;
+            }
+            .author-avatar {
+                flex-basis: 66px;
+                max-height: 62px;
+                margin-right: 10px;
+                // Responsive
+                @media #{$xxs-device} {
+                    flex-basis: 100%;
+                    max-width: 66px;
+                    height: 62px;
+                }
+            }
+            &.comment-children {
+                margin-left: 40px;
+            }
+            .comment-body {
+                flex-basis: 100%;
+                h5 {
+                    color: $black-soft;
+                    font-size: 14px;
+                    font-weight: 500;
+                    padding-bottom: 5px;
+                    text-transform: capitalize;
+                }
+                .comment-post-date {
+                    color: $paragraph;
+                    padding-bottom: 10px;
+                }
+                .reply-btn {
+                    float: right;
+                    a {
+                        color: $black-soft;
+                        font-size: 12px;
+                        display: inline-block;
+                        padding: 4px 15px;
+                        border-radius: 20px;
+                        text-transform: capitalize;
+                        border: 1px solid $bdr-color;
+                        &:hover {
+                            color: $white !important;
+                            border-color: $theme-color;
+                            background-color: $theme-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+/*--- blog comment section end ---*/
+
+/*------ blog comment box start -----*/
+.blog-comment-wrapper {
+    h3 {
+        color: $black-soft;
+        font-size: 18px;
+        line-height: 1;
+        font-weight: 500;
+        padding-bottom: 15px;
+        text-transform: uppercase;
+        border-bottom: 1px solid #f0f0f0;
+    }
+    p {
+        margin-bottom: 10px;
+        padding-top: 10px;
+    }
+    .comment-post-box {
+        label {
+            color: $black-soft;
+            font-weight: 500;
+            margin-bottom: 10px;
+            display: block;
+            text-transform: capitalize;
+        }
+        .coment-field {
+            background: #f8f8f8;
+            border: none;
+            color: $paragraph;
+            padding: 8px 10px;
+            width: 100%;
+            // responsive
+            @media #{$sm-device} {
+                margin-bottom: 20px;
+            }
+        }
+        textarea {
+            height: 130px;
+            margin-bottom: 20px;
+            padding: 10px;
+            width: 100%;
+            background: #f8f8f8;
+            border: none;
+        }
+        .coment-btn {
+            margin-top: 30px;
+            // responsive
+            @media #{$sm-device} {
+                margin-top: 10px;
+            }
+        }
+    }
+}
+
+/*------- blog comment box end --------*/

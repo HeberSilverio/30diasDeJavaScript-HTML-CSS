@@ -1,0 +1,47 @@
+/*------ pagination area style start ------*/
+.paginatoin-area {
+    padding: 20px 0 18px;
+    background-color: $white;
+    .pagination-box {
+        li {
+            display: inline-block;
+            a {
+                color: $white;
+                height: 40px;
+                width: 40px;
+                font-size: 14px;
+                display: inline-block;
+                padding: 0 10px;
+                text-align: center;
+                line-height: 40px;
+                border-radius: 4px;
+                background-color: #a8a8a8;
+                &:hover {
+                    color: $white;
+                    border-color: $theme-color;
+                    background-color: $theme-color;
+                }
+                &.next {
+                    width: inherit;
+                    i {
+                        padding-left: 5px;
+                    }
+                }
+                &.previous {
+                    width: inherit;
+                    i {
+                        padding-right: 5px;
+                    }
+                }
+            }
+            &.active {
+                a {
+                    color: $white;
+                    border-color: $theme-color;
+                    background-color: $theme-color;
+                }
+            }
+        }
+    }
+}
+/*------ pagination area style end ------*/
