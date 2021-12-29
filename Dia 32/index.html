@@ -7,40 +7,51 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <title>Botão Leia Mais com JavaScript #1</title>
+    <link rel="stylesheet" href="">
+    <title>Botão Leia Mais com Bootstrap 5</title>
 </head>
 <body>
     <div class="container">
         
-            <div class="explicacao text-center">
-                <h1>Botão Leia Mais com JavaScript</h1>
-                <p>Abaixo criei um botão leia mais com JavaScript. Quando expande o texto o botão se altera para leia menos.</p>
-                <p> <strong> Não utilizei este botão porque não consegui alterar a velocidade de abertura do botão.</strong></p>
-                <br>
-            </div>
-            <div class="conteudo">
-                <h2>Torneira Clínica Hospitalar</h2>
-
-        <p>As torneiras clínicas hospitalares ou apenas torneiras hospitalares seguem recomendações específicas a fim de garantir a não transmissão de contaminação cruzada. São acionadas pelo cotovelo e podem ser utilizadas em clínicas médicas, hospitais, laboratórios, consultórios e restaurantes. <span id="pontos">...</span><span id="mais" class="visivel"> Elas possuem mecanismo cerâmico de ¼ de volta em metal que torna mais fácil a abertura e maior durabilidade por ser de metal e conforme a norma NR-32. São indicadas também para pessoas que possuem alguma dificuldade motora. 
-        <br>
-        <br>
-        A contaminação cruzada é uma das principais formas de contaminação e precisa ser evitada principalmente em laboratórios e consultórios. A Torneira clínica evita o evita o contato manual com a sua alavanca longa, conforme a norma reguladora. Nossas Torneiras Clínicas com Acionamento por Cotovelo possuem Alavanca Longa Maciça e são lisas (sem botões) para não acumular sujeira e facilitar a limpeza de acordo com a NR32 e NBR9050 para evitar a contaminação cruzada exigida pela Vigilância Sanitária. Fabricadas em metal, em Indaiatuba SP.
-        <br>
-        <br>
-        A torneira clínica evita a contaminação cruzada. O metal cromado é elegante e fácil de limpar. A torneira segue a norma nbr9050. Apresenta maior durabilidade. Confira os modelos de torneira clínica com bica alta.
-        <br>
-        <br>
-        São feitas de material de alta resistência e seguem a norma NBR9050, apresentam uma alavanca maciça. Escolha o modelo ideal para você:
-        <br>
-        <br>
-        <strong style="color:#0490f7;">Somos Fabricantes</strong> e Temos o modelo mais adequado para seu uso, consulte-nos e receba uma indicação Grátis.</span></p>
-
-                <button onclick="leiaMais()" id="btnLeiaMais" class="btn btn-azul">Leia mais</button>
-                <script type="text/javascript" src="script.js"></script>
+          <div class="explicacao text-center">
+            <h1>Botão Leia Mais com Bootstrap 5</h1>
+            <p> <strong> Esta é outra opção de botão leia mais utilizando apenas bootstrap 5. O botão ocultar poderá<br> ser retirado e ainda funcionará perfeitamente. Gostaria de implementar a opção de ocultar<br> completamente os botões após o texto ser expandido.</strong></p>
+            <br>
         </div>
-    </div>
-</div>
+        <div class="conteudo text-justify">
+          <h2>Torneira Clínica Hospitalar</h2>
+              <p>
+                  As torneiras clínicas hospitalares ou apenas torneiras hospitalares seguem recomendações específicas a fim de garantir a não transmissão de contaminação cruzada. São acionadas pelo cotovelo e podem ser utilizadas em clínicas médicas, hospitais, laboratórios, consultórios e restaurantes. <span id="pontos">...</span><span id="mais" class="visivel"> Elas possuem mecanismo cerâmico de ¼ de volta em metal que torna mais fácil a abertura e maior durabilidade por ser de metal e conforme a norma NR-32. São indicadas também para pessoas que possuem alguma dificuldade motora. 
+
+                <div class="collapse" id="collapseExample">
+                    A contaminação cruzada é uma das principais formas de contaminação e precisa ser evitada principalmente em laboratórios e consultórios. A Torneira clínica evita o evita o contato manual com a sua alavanca longa, conforme a norma reguladora. Nossas Torneiras Clínicas com Acionamento por Cotovelo possuem Alavanca Longa Maciça e são lisas (sem botões) para não acumular sujeira e facilitar a limpeza de acordo com a NR32 e NBR9050 para evitar a contaminação cruzada exigida pela Vigilância Sanitária. Fabricadas em metal, em Indaiatuba SP.
+                    <br>
+                    A torneira clínica evita a contaminação cruzada. O metal cromado é elegante e fácil de limpar. A torneira segue a norma nbr9050. Apresenta maior durabilidade. Confira os modelos de torneira clínica com bica alta.
+                    <br>
+                    São feitas de material de alta resistência e seguem a norma NBR9050, apresentam uma alavanca maciça. Escolha o modelo ideal para você:
+                    <br>
+                    <br>
+                    <strong style="color:#0490f7;">Somos Fabricantes</strong> e Temos o modelo mais adequado para seu uso, consulte-nos e receba uma indicação Grátis.
+              </div>
+            </p>
+            <p>
+                <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                  Continue lendo ...
+                </a>
+                <button class="btn btn-secondary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  Ocultar
+                </button>
+              </p>
+        </div>
+
+</div> 
+
+        
+
+      
+  
+    
+    <script type="text/javascript" src="script.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>

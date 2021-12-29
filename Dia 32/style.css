@@ -1,28 +1,35 @@
-body {
-    background-color: #000b2d;
+/* body {
+    background-color: #000b2d!important;
     color: #708090;
     font-family: 'Poppins' sans-serif;
-}
-p {
-    font-size: 1.1rem;
-}
-.explicacao h1, .explicacao p {
-    color: #FFF;
-}
-#mais{
-    display: none;
-}
+}*/
 
-/* botões */
+.explicacao h1, .explicacao p {
+    color: #33333b;
+} 
+
+
+/* div {
+    overflow:hidden;
+    max-height: 600px;
+    transition: max-height 3s linear;
+    
+  }
+  
+   div.hide {
+    max-height: 0;
+    pointer-events: none; 
+  }
+  
+  
 .btn { 
     width: auto; 
     text-align: center; 
-    /* transition: color 0.4s, border 0.4s, background 0.4s !important;  */
     color: #fff; 
     font-weight: bold; 
     letter-spacing: 1px; 
     border-radius: 8px;
-    transition: transform 2s;
+    margin-top: 10px;
     
 }
 
@@ -30,11 +37,17 @@ p {
     color:#fff; 
     background-color: #3071a9; 
     border-color: #8e9aa5;
-    /* transform: translateY(30px); */
-    
-    
 }
 
-.btn-azul { margin-top: 10px; font-size: 14px; line-height: 14px; padding: 10px 20px; border-radius: 8px; background: #428bca; border-color: #357ebd; align-content: center;
- }
-
+.btn-azul { 
+    margin-top: 10px; 
+    font-size: 14px; 
+    line-height: 14px; 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    background: #428bca; 
+    border-color: #357ebd; 
+    align-content: center; 
+    margin: 10px;
+    
+} */
