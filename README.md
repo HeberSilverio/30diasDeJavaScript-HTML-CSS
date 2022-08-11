@@ -90,17 +90,17 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 32 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-32---bot%C3%A3o-leia-mais-com-javascript-1">Botão Leia Mais com JavaScript #1</a>
 
-* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-33---bot%C3%A3o-leia-mais-com-javascript-2">Slider Center Zoom</a>
+* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-33---slider-center-zoom">Slider Center Zoom</a>
 
-* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-34---bot%C3%A3o-leia-mais-com-bootstrap-5">Formulário com Bootstrap 5</a>
+* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-34---formul%C3%A1rio-com-bootstrap-5">Formulário com Bootstrap 5</a>
 
-* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Single page website</a>
+* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---single-page-website">Single page website</a>
 
-* Desafio dia 36 - <a href="">Índice de Música com Bootstrap</a>
+* Desafio dia 36 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-36---%C3%ADndice-de-m%C3%BAsica-com-bootstrap">Índice de Música com Bootstrap</a>
 
-* Desafio dia 37 - <a href="">Collapse Bootstrap 5</a>
+* Desafio dia 37 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-37---collapse-bootstrap-5">Collapse Bootstrap 5</a>
 
-* Desafio dia 38 - <a href="">Menu de Site</a>
+* Desafio dia 38 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-38---menu-de-site">Menu de Site</a>
 
 * Desafio dia 39 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Claymorphism</a>
 
