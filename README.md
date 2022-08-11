@@ -90,11 +90,17 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 32 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-32---bot%C3%A3o-leia-mais-com-javascript-1">Botão Leia Mais com JavaScript #1</a>
 
-* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-33---bot%C3%A3o-leia-mais-com-javascript-2">Botão Leia Mais com JavaScript #2</a>
+* Desafio dia 33 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-33---bot%C3%A3o-leia-mais-com-javascript-2">Slider Center Zoom</a>
 
-* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-34---bot%C3%A3o-leia-mais-com-bootstrap-5">Botão Leia Mais com Bootstrap 5</a>
+* Desafio dia 34 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-34---bot%C3%A3o-leia-mais-com-bootstrap-5">Formulário com Bootstrap 5</a>
 
-* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Slider Center Zoom</a>
+* Desafio dia 35 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Single page website</a>
+
+* Desafio dia 36 - <a href="">Índice de Música com Bootstrap</a>
+
+* Desafio dia 37 - <a href="">Collapse Bootstrap 5</a>
+
+* Desafio dia 38 - <a href="">Menu de Site</a>
 
 * Desafio dia 39 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Claymorphism</a>
 
@@ -498,9 +504,9 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 
-## Desafio dia 33 - Botão Leia Mais com JavaScript #2
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2033/btn-readMore.gif" alt="Dia 33" style="max-width: 100%;">
+## Desafio dia 33 - Slider Center Zoom
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2033/gif-relogio.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2033/gif-relogio.gif" alt="Dia 33" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2033">Código Dia 33</a> </br>
@@ -511,9 +517,9 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
 * <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" rel="nofollow">Pure Css Shape</a></br>
 
-## Desafio dia 34 - Botão Leia Mais com Bootstrap 5
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2034/btn-readMore.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2034/btn-readMore.gif" alt="Dia 24" style="max-width: 100%;">
+## Desafio dia 34 - Formulário com Bootstrap 5
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2034/formularioIMG.JPG">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2034/formularioIMG.JPG" alt="Dia 34" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2034">Código Dia 34</a> </br>
@@ -524,12 +530,51 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://www.w3schools.com/html/default.asp" rel="nofollow">HTML5</a></br>
 * <a href="https://getbootstrap.com.br/" rel="nofollow">Bootstrap 5</a></br>
 
-## Desafio dia 35 - Slider Center Zoom
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2035/slick-slider.gif">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/main/Dia%2035/slick-slider.gif" alt="Dia 35" style="max-width: 100%;">
+## Desafio dia 35 - Single page website
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2035/singlePage.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2035/singlePage.gif" alt="Dia 35" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2035">Código Dia 35</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
+
+## Desafio dia 36 - Índice de Música com Bootstrap
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2036/indiceDeMusicas.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2036/indiceDeMusicas.gif" alt="Dia 36" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2036">Código Dia 36</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
+
+## Desafio dia 37 - Collapse Bootstrap 5 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2037/botaoDropdown.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2037/botaoDropdown.gif" alt="Dia 36" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2037">Código Dia 37</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
+* <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
+
+## Desafio dia 38 - Menu de Site
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2038/MenudeSite.gif">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2038/MenudeSite.gif" alt="Dia 38" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2038">Código Dia 38</a> </br>
 
 
 ### 🛠️ Tecnologias utilizadas
