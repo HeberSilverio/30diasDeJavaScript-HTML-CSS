@@ -104,7 +104,7 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 39 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Claymorphism</a>
 
-* Desafio dia 40 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-35---slider-center-zoom">Formulário de login</a>
+* Desafio dia 40 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-40---formul%C3%A1rio-de-login">Formulário de login</a>
 
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
@@ -598,14 +598,14 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 * <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
 
 ## Desafio dia 40 - Formulário de Login
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2039/img.JPG">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2039/img.JPG" alt="Dia 35" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2040/Formulario.JPG">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2040/Formulario.JPG" alt="Dia 40" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2039">Código Dia 39</a> </br>
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2040">Código Dia 40</a> </br>
 
 
 ### 🛠️ Tecnologias utilizadas
 
-* <a href="https://www.w3schools.com/js/default.asp" rel="nofollow">JavaScript</a></br>
-* <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slich slider </a></br>
+* <a href="https://www.w3schools.com/html/default.asp" rel="nofollow">HTML5</a></br>
+* <a href="https://www.w3schools.com/css/default.asp"> CSS - Schools w3</a> 
