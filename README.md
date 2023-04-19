@@ -106,6 +106,8 @@ Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
 * Desafio dia 40 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-40---formul%C3%A1rio-de-login">Formulário de login</a>
 
+* Desafio dia 41 - <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS#desafio-dia-40---formul%C3%A1rio-de-login">CSS Efeito de cantos brilhantes | Truque rápido do CSS</a>
+
 ## Desafio dia 01 - 3D Responsive Touch Slider
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
@@ -601,6 +603,18 @@ Inspired By This : CSS Wavy Loader Animation Effects | Quick Html CSS Preloader 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2040/Formulario.JPG">
     <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2040/Formulario.JPG" alt="Dia 40" style="max-width: 100%;">
 </a>
+
+<a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2040">Código Dia 40</a> </br>
+
+
+### 🛠️ Tecnologias utilizadas
+
+* <a href="https://www.w3schools.com/html/default.asp" rel="nofollow">HTML5</a></br>
+* <a href="https://www.w3schools.com/css/default.asp"> CSS - Schools w3</a> 
+
+## Desafio dia 41 - CSS Efeito de cantos brilhantes | Truque rápido do CSS
+<img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2040/Formulario.JPG" alt="Dia 40" style="max-width: 100%;"> 
+    
 
 <a href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/tree/main/Dia%2040">Código Dia 40</a> </br>
 

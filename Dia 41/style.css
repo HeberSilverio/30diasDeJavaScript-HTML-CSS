@@ -1,0 +1,46 @@
+*
+{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   background: #0e1538;
+   gap: 200px
+}
+.box 
+{
+   position: relative;
+   width: 300px;
+   height: 400px;
+   background: #000;
+   //color: #fff;
+}
+.box::before
+{
+   content: '';
+   position: absolute;
+   inset: -3px;
+   background: linear-gradient(45deg, #00ccff,#0e1538,#0e1538,#d400d4);
+   box-shadow: 0 0 0 20px #070c23;
+   z-index: -1;
+}
+.box::after
+{
+   content: '';
+   position: absolute;
+   inset: -3px;
+   background: linear-gradient(45deg, #00ccff,#0e1538,#0e1538,#d400d4);
+   z-index: -1;
+   filter: blur(20px);
+}
+.box:nth-child(2)::before,
+.box:nth-child(2)::after
+{
+   background: linear-gradient(45deg, #ffeb3b,#0e1538,#0e1538,#00ff0a);
+}
