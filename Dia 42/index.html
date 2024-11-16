@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cadastro de Pessoas</title>
+	<style>
+		table {
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 8px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Cadastro de Pessoas</h1>
+	<form onsubmit="addPerson(); return false;">
+		<label for="name">Nome:</label>
+		<input type="text" id="name" required><br><br>
+		<label for="birthdate">Data de Nascimento:</label>
+		<input type="date" id="birthdate" required><br><br>
+		<label for="deathdate">Data da Morte (deixe em branco se ainda estiver vivo):</label>
+		<input type="date" id="deathdate"><br><br>
+		<input type="submit" value="Cadastrar">
+	</form>
+	<br>
+	<table>
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Data de Nascimento</th>
+				<th>Data da Morte</th>
+			</tr>
+		</thead>
+		<tbody id="personList">
+		</tbody>
+	</table>
+	<script>
+		let people = [];
+
+		function addPerson() {
+			const name = document.getElementById('name').value;
+			const birthdate = new Date(document.getElementById('birthdate').value);
+			const deathdate = document.getElementById('deathdate').value ? new Date(document.getElementById('deathdate').value) : null;
+			people.push({ name, birthdate, deathdate });
+			updateList();
+			clearForm();
+		}
+
+		function updateList() {
+			const list = document.getElementById('personList');
+			list.innerHTML = '';
+			for (let person of people) {
+				if (!person.deathdate || person.deathdate > new Date()) {
+					const row = document.createElement('tr');
+					row.innerHTML = `
+						<td>${person.name}</td>
+						<td>${formatDate(person.birthdate)}</td>
+						<td>${person.deathdate ? formatDate(person.deathdate) : ''}</td>
+					`;
+					list.appendChild(row);
+				}
+			}
+		}
+
+		function clearForm() {
+			document.getElementById('name').value = '';
+			document.getElementById('birthdate').value = '';
+			document.getElementById('deathdate').value = '';
+		}
+
+		function formatDate(date) {
+			const options = { year: 'numeric', month: 'long', day: 'numeric' };
+			return date.toLocaleDateString('pt-BR', options);
+		}
+	</script>
+</body>
+</html>

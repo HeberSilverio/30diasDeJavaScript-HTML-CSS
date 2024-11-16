@@ -1,0 +1,22 @@
+
+table {
+   border-collapse: collapse;
+}
+th, td {
+   border: 1px solid black;
+   padding: 8px;
+}
+*
+{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.name{
+   background-image: linear-gradient(to right, #008000 40%, #52edc1) ;
+}

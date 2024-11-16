@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Pessoas</title>
+    <link rel="stylesheet" href="style.css">
+
+	
+</head>
+<body>
+	<h1>Cadastro de Pessoas</h1>
+	<form onsubmit="addPerson(); return false;">
+		<label for="name">Nome:</label>
+		<input type="text" id="name" required><br><br>
+		<label for="birthdate">Data de Nascimento:</label>
+		<input type="date" id="birthdate" required><br><br>
+		<label for="deathdate">Data da Morte (deixe em branco se ainda estiver vivo):</label>
+		<input type="date" id="deathdate"><br><br>
+		<input type="submit" value="Cadastrar">
+	</form>
+	<br>
+	<table>
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Data de Nascimento</th>
+				<th>Data da Morte</th>
+			</tr>
+		</thead>
+		<tbody id="personList" class="name">
+		</tbody>
+	</table>
+	
+
+<script src="People.js"></script>
+
+</body>
+</html>
